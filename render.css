@@ -15,7 +15,7 @@ i {
 
 .scroll_opt {
     display: flex;
-    background: #F1F5FA;
+    background: transparent;
     height: 75px;
     padding: 3px;
     align-items: center;
@@ -41,12 +41,12 @@ i {
     position:relative;
     width: 75px;
     height: 35px;
-    border-radius: 5px;
+    border-radius: 0px;
     font-family: Roboto, system-ui, sans-serif;
     text-align: right;
     font-size: 15px;
     font-weight: 500;
-    color: #767676;
+    color: var(--tg-theme-hint-color);
     margin-left: 5px;
     margin-right: 5px;
     margin-top: 5px;
@@ -58,19 +58,19 @@ i {
     padding: 8px;
     display: grid;
     align-items: center;
-    background-color: #F1F5FA;
+    background-color: var(--tg-theme-secondary-bg-color);
     position: absolute;
     top: 0;
     width: 100%;
     pointer-events: none;
     border-radius: 0px;
     text-align: left;
-    border-bottom: 1.5px solid #F1F5FA;
+    border-bottom: 1.5px solid var(--tg-theme-subtitle-text-color);
 
 }
 
 .option:hover {
-    background:#F1F5FA;
+    background: var(--tg-theme-bg-color);
   }
   
   .select:focus .option {
@@ -104,15 +104,13 @@ input {
 input:checked + label {
     order: 1;
     z-index:2;
-    background: #F0F0F0;
+    background: var(--tg-theme-secondary-bg-color);
     border-top:none;
     position:relative;
     text-align: center;
-    border-radius: 8px;
-    border-bottom: 1.5px solid transparent;
-    border-top: 1.5px solid transparent;
-    color: #000000;
-
+    border-radius: 2px;
+    border: 1.5px solid var(--tg-theme-bg-color);
+    color: #3390EC;
 }
 
 
@@ -138,7 +136,7 @@ ul {
     align-items: center;
     counter-reset: li;
     padding: 0px;
-    background: #f4f4f5;
+    background: transparent;
 }
 
 li {
@@ -146,7 +144,7 @@ li {
     margin-bottom: 10px;
     width: 100vw;
     justify-content: center;
-    background-color: #FFFFFF;
+    background-color: var(--tg-theme-bg-color);
     border-radius: 0px;
     padding-bottom: 10px;
     box-shadow: 0px 1.5px 0px 0px rgba(0, 0, 0, 0.1);
@@ -257,4 +255,16 @@ button {
     color: #FFFFFF;
     outline: none;
     text-decoration: none;
+}
+
+b {
+    color: var(--tg-theme-text-color);
+}
+
+span {
+    color: var(--tg-theme-text-color);
+}
+
+p {
+    color: var(--tg-theme-hint-color);
 }
