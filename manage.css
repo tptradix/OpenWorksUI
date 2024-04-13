@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #f4f4f5;
 }
 
 * {
@@ -57,7 +56,7 @@ ul {
     align-items: center;
     counter-reset: li;
     padding: 0px;
-    background: #f4f4f5;
+    background: var(--tg-theme-secondary-bg-color);
 }
 
 li {
@@ -65,7 +64,7 @@ li {
     margin-bottom: 10px;
     width: 95vw;
     justify-content: center;
-    background-color: #FFFFFF;
+    background-color: var(--tg-theme-bg-color);
     border-radius: 0px;
     padding-bottom: 10px;
     border-radius: 10px;
@@ -183,6 +182,7 @@ h1 {
     font-size: 22px;
     font-family: Roboto, system-ui, sans-serif;
     text-align: center;
+    color: var(--tg-theme-text-color)
 }
 
 .isN {
@@ -198,4 +198,12 @@ h1 {
     text-align: center;
     font-weight: 500;
     
+}
+
+b {
+    color: var(--tg-theme-text-color);
+}
+
+span {
+    color: var(--tg-theme-text-color);
 }
