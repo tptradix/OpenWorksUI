@@ -66,6 +66,7 @@ a:active {
     outline: none;
 }
 
+
 h3 {
     font-family: Lato;
     font-size: 36px;
@@ -115,7 +116,7 @@ button {
     border-radius: 8px;
     width: 49%;
     padding: 5px;
-    color: var(--tg-theme-button-text-color);
+    color: var(--tg-theme-text-color);
 }
 
 .scroll_ev {
@@ -145,6 +146,7 @@ h1 {
     font-size: 23px;
     margin-bottom: 10px;
     padding: 0px;
+    color: var(--tg-theme-text-color);
 }
 
 .c_form {
@@ -220,7 +222,7 @@ input:focus {
     padding: 10px;
     width: 90%;
     display: inline-block;
-    background-color: var(var(--tg-theme-secondary-bg-color));
+    background-color: var(--tg-theme-secondary-bg-color);
     border-radius: 10px;
 }
 
@@ -269,4 +271,3 @@ input:focus {
 .at_id_3 {
     display: none;
 }
-
