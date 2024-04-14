@@ -23,7 +23,7 @@
     background-color: #fff;
     padding: 0px;
     border-radius: 10px;
-  
+    background: var(--tg-theme-bg-color);  
   }
   
   .modal__btn {
@@ -122,16 +122,4 @@
       display: block;
     }
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
