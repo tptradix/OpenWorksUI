@@ -46,14 +46,10 @@
                             if((document.getElementById('rew').value <= bal && (document.getElementById('rew').value > 1)) && document.getElementById('des').value.length > 10) {
                                 document.getElementById('conf').style.backgroundColor = '#3390EC';
                                 document.getElementById('conf').setAttribute('type', 'submit');
-                                window.Telegram.WebApp.MainButton.isActive = true;
-                                window.Telegram.WebApp.MainButton.MainButton.color = '#31b545'
                             }
                             else {
                                 document.getElementById('conf').style.backgroundColor = '#707579';
                                 document.getElementById('conf').setAttribute('type', 'button');
-                                window.Telegram.WebApp.MainButton.isActive = false;
-                                window.Telegram.WebApp.MainButton.MainButton.color = '#737373'
                             }
                         }
                         else {
@@ -61,14 +57,10 @@
                             if((document.getElementById('rew').value <= bal && (document.getElementById('rew').value > 1)) && document.getElementById('des').value.length > 10) {
                                 document.getElementById('conf').style.backgroundColor = '#3390EC';
                                 document.getElementById('conf').setAttribute('type', 'submit');
-                                window.Telegram.WebApp.MainButton.isActive = true;
-                                window.Telegram.WebApp.MainButton.MainButton.color = '#31b545'
                             }
                             else {
                                 document.getElementById('conf').style.backgroundColor = '#707579';
                                 document.getElementById('conf').setAttribute('type', 'button');
-                                window.Telegram.WebApp.MainButton.isActive = false;
-                                window.Telegram.WebApp.MainButton.MainButton.color = '#737373'
                             }
                         }
                     });
@@ -78,14 +70,10 @@
                             if((document.getElementById('rew').value <= bal && (document.getElementById('rew').value > 1)) && document.getElementById('des').value.length > 10) {
                                 document.getElementById('conf').style.backgroundColor = '#3390EC';
                                 document.getElementById('conf').setAttribute('type', 'submit');
-                                window.Telegram.WebApp.MainButton.isActive = true;
-                                window.Telegram.WebApp.MainButton.MainButton.color = '#31b545'
                             }
                             else {
                                 document.getElementById('conf').style.backgroundColor = '#707579';
                                 document.getElementById('conf').setAttribute('type', 'button');
-                                window.Telegram.WebApp.MainButton.isActive = false;
-                                window.Telegram.WebApp.MainButton.MainButton.color = '#737373'
                             }
                         }
                         else {
@@ -93,14 +81,10 @@
                             if((document.getElementById('rew').value <= bal && (document.getElementById('rew').value > 1)) && document.getElementById('des').value.length > 10) {
                                 document.getElementById('conf').style.backgroundColor = '#3390EC';
                                 document.getElementById('conf').setAttribute('type', 'submit');
-                                window.Telegram.WebApp.MainButton.isActive = true;
-                                window.Telegram.WebApp.MainButton.MainButton.color = '#31b545'
                             }
                             else {
                                 document.getElementById('conf').style.backgroundColor = '#707579';
                                 document.getElementById('conf').setAttribute('type', 'button');
-                                window.Telegram.WebApp.MainButton.isActive = false;
-                                window.Telegram.WebApp.MainButton.MainButton.color = '#737373'
                             }
                         }
                     });
