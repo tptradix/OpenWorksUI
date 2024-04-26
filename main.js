@@ -1,1 +1,883 @@
-function _0x55e9(){const _0x215967=['value','tws4','scroll','type','334584YGVnxQ','tws7','infT1','background','iws10','removeAttribute','style','tprf','#3390EC','iws9','iws1','iws2','row8','iPhone','iws7','replace','pws8','.modal','Payment\x20Method','infT10','search','show_w_1','scrollY','infT2','opacity','prototype','.modal__btn','console','https://vercel.com','In\x20process','href','split','position','row7','457zOEOpH','infT5','infT3','grid','infT4','visible','work','pws7','tws3','row1','row3','Deal','2810jcYxuN','iPad','.c_form','body','swiped-down','16aUULen','indexOf','tws1','.cp_pay','location','classList','bind','is-open','trace','i_pc','.at_id_2','Receive','textContent','innerHTML','{}.constructor(\x22return\x20this\x22)(\x20)','exception','.at_id_7','inline-block','pws10','https://tptradix.github.io/OpenWorksUI/img/cash.png','Registration','.pay_d','none','5411gylftc','pws4','row9','pws3','.modals','iws3','join','dataset','userAgent','Chrome','infT8','remove','setAttribute','modules','https://tptradix.github.io/OpenWorksUI/img/reg.png','log','.main','In\x20proccess','tws10','6501930XmpOws','iws5','.body_st','iws6','.acpt_i','addEventListener','infT9','table','pws9','CryptoBot','disable-scroll','input','display','apply','row6','4178875VHAkPc','market','querySelector','click','tws6','del_f','#707579','https://tptradix.github.io/OpenWorksUI/img/work_case.png','2552bXZfhg','2720tJVhOO','tws9','.at_id_4','row10','constructor','693sYxiMF','cash','length','target','.at_id_10','tws2','Opera','(((.+)+)+)+$','pws6','auto','tws8','cp_amount','block','pws5','row5','infT7','.at_id_8','iws4','31419fHczwf','.one_v_l','.at_id_1','getElementById','pws2','pws1','283173FXjQLv','.acp','root','reload','row4','top','iws8','add','inline','.ld_wp','button','tws5','src','infT6','toString'];_0x55e9=function(){return _0x215967;};return _0x55e9();}function _0x2264(_0x4ad9a1,_0x41f286){const _0x20c787=_0x55e9();return _0x2264=function(_0xd31e9,_0x590480){_0xd31e9=_0xd31e9-0x185;let _0x1e3dda=_0x20c787[_0xd31e9];return _0x1e3dda;},_0x2264(_0x4ad9a1,_0x41f286);}(function(_0x43f676,_0x39e858){const _0x139457=_0x2264,_0x5279cf=_0x43f676();while(!![]){try{const _0xcd7564=parseInt(_0x139457(0x203))/0x1*(-parseInt(_0x139457(0x1b0))/0x2)+-parseInt(_0x139457(0x1ce))/0x3*(-parseInt(_0x139457(0x214))/0x4)+parseInt(_0x139457(0x1a8))/0x5+parseInt(_0x139457(0x199))/0x6+parseInt(_0x139457(0x186))/0x7*(-parseInt(_0x139457(0x1b1))/0x8)+parseInt(_0x139457(0x1c8))/0x9*(parseInt(_0x139457(0x20f))/0xa)+-parseInt(_0x139457(0x1b6))/0xb*(parseInt(_0x139457(0x1e1))/0xc);if(_0xcd7564===_0x39e858)break;else _0x5279cf['push'](_0x5279cf['shift']());}catch(_0x4327b3){_0x5279cf['push'](_0x5279cf['shift']());}}}(_0x55e9,0xa4e77),!(function(){const _0x47a3b5=_0x2264,_0x1968bf=(function(){let _0x3e2853=!![];return function(_0x5c1367,_0x549076){const _0x586f51=_0x3e2853?function(){if(_0x549076){const _0x493681=_0x549076['apply'](_0x5c1367,arguments);return _0x549076=null,_0x493681;}}:function(){};return _0x3e2853=![],_0x586f51;};}()),_0x74d2f1=(function(){let _0x7de9ef=!![];return function(_0x585d17,_0x21f52f){const _0x4dae43=_0x7de9ef?function(){const _0x4c84c1=_0x2264;if(_0x21f52f){const _0x52e0f1=_0x21f52f[_0x4c84c1(0x1a6)](_0x585d17,arguments);return _0x21f52f=null,_0x52e0f1;}}:function(){};return _0x7de9ef=![],_0x4dae43;};}());document[_0x47a3b5(0x212)]['onselectstart']=function(){return![];};let _0x30f50c=document[_0x47a3b5(0x1aa)](_0x47a3b5(0x1d7)),_0x90e08=document[_0x47a3b5(0x1aa)](_0x47a3b5(0x196));setTimeout(()=>{const _0x5441fd=_0x47a3b5;_0x30f50c[_0x5441fd(0x1e7)][_0x5441fd(0x1a5)]='none',_0x90e08[_0x5441fd(0x1e7)][_0x5441fd(0x1a5)]=_0x5441fd(0x1c2);},0x7d0);const _0x4c16fb=[_0x47a3b5(0x193),_0x47a3b5(0x1b7),_0x47a3b5(0x1d0)],_0xe3237=['Android',_0x47a3b5(0x1ee),'Safari',_0x47a3b5(0x210),_0x47a3b5(0x18f),_0x47a3b5(0x1bc)];var _0x529046=function(_0x1eb675){const _0x620f01=_0x47a3b5;var _0x52200d=navigator[_0x620f01(0x18e)],_0x478a3c=['agent:',_0x52200d];if(_0x52200d!=null){return console[_0x620f01(0x195)](_0x52200d);var _0x111516=function(_0x461e90){const _0x1c142f=_0x1968bf(this,function(){const _0x2c2ffe=_0x2264;return _0x1c142f[_0x2c2ffe(0x1dc)]()[_0x2c2ffe(0x1f5)](_0x2c2ffe(0x1bd))[_0x2c2ffe(0x1dc)]()['constructor'](_0x1c142f)['search'](_0x2c2ffe(0x1bd));});_0x1c142f();const _0x367a6e=_0x74d2f1(this,function(){const _0xaec28a=_0x2264;let _0x141a20;try{const _0x30ecaa=Function('return\x20(function()\x20'+_0xaec28a(0x222)+');');_0x141a20=_0x30ecaa();}catch(_0x564fdb){_0x141a20=window;}const _0x30a8d1=_0x141a20['console']=_0x141a20[_0xaec28a(0x1fc)]||{},_0x4da139=['log','warn','info','error',_0xaec28a(0x223),_0xaec28a(0x1a0),_0xaec28a(0x21c)];for(let _0x4ca458=0x0;_0x4ca458<_0x4da139[_0xaec28a(0x1b8)];_0x4ca458++){const _0x524e38=_0x74d2f1[_0xaec28a(0x1b5)][_0xaec28a(0x1fa)][_0xaec28a(0x21a)](_0x74d2f1),_0x357e9f=_0x4da139[_0x4ca458],_0x4a8776=_0x30a8d1[_0x357e9f]||_0x524e38;_0x524e38['__proto__']=_0x74d2f1[_0xaec28a(0x21a)](_0x74d2f1),_0x524e38[_0xaec28a(0x1dc)]=_0x4a8776[_0xaec28a(0x1dc)]['bind'](_0x4a8776),_0x30a8d1[_0x357e9f]=_0x524e38;}});_0x367a6e(),data=[{'locale':_0x52200d,'check':_0x461e90[0x1],'nl':_0xe3237}];}(_0x1eb675);}else window['location'][_0x620f01(0x1f0)](_0x620f01(0x1fd));}(_0x4c16fb);const _0x5e718c=document['querySelector'](_0x47a3b5(0x1cf)),_0x3bdd82=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1eb)),_0x3f4d1f=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1ec)),_0x4dc018=document[_0x47a3b5(0x1cb)]('iws3'),_0x139261=document['getElementById']('iws4'),_0x4ea349=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x19a)),_0x28d17b=document['getElementById'](_0x47a3b5(0x19c)),_0x166099=document[_0x47a3b5(0x1cb)]('iws7'),_0xbc0bfa=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1d4)),_0x59a3de=document['getElementById']('iws9'),_0x4d366f=document['getElementById'](_0x47a3b5(0x1e5)),_0x1a7843=document[_0x47a3b5(0x1aa)](_0x47a3b5(0x18a)),_0x59cdd4=document[_0x47a3b5(0x1aa)](_0x47a3b5(0x1fb)),_0x210be7=document[_0x47a3b5(0x1aa)]('.mobile-close'),_0x5c4f34=document[_0x47a3b5(0x1aa)]('.form__btn');let _0x232d21=document[_0x47a3b5(0x1cb)]('cp'),_0x310b69=document[_0x47a3b5(0x1aa)](_0x47a3b5(0x1c9)),_0x36f3bc=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x21d)),_0x59e1ab=document['querySelector'](_0x47a3b5(0x211)),_0x8dff26=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1c1)),_0x25dba3=document[_0x47a3b5(0x1aa)](_0x47a3b5(0x217)),_0x368713=document[_0x47a3b5(0x1cb)]('cp'),_0x28cdd1=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x20c)),_0x152d37=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1e3))[_0x47a3b5(0x220)],_0x3dc5a8=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1eb)),_0x1e0b20=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x216)),_0x1be9d5=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1cd)),_0x310bae=document[_0x47a3b5(0x1cb)]('row2'),_0x4de07e=document['getElementById']('infT2')[_0x47a3b5(0x220)],_0x318ac1=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1ec)),_0x17c568=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1bb)),_0x12d0a4=document['getElementById'](_0x47a3b5(0x1cc)),_0x3bc8b7=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x205))[_0x47a3b5(0x220)],_0x10d1bd=document['getElementById'](_0x47a3b5(0x18b)),_0x11d42f=document['getElementById'](_0x47a3b5(0x207))[_0x47a3b5(0x220)],_0x5cd3b5=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1c7)),_0x4e689a=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x204))[_0x47a3b5(0x220)],_0x221948=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x19a)),_0x1ca7ec=document['getElementById']('infT6')[_0x47a3b5(0x220)],_0x16c437=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x19c)),_0x1f5562=document['getElementById']('infT7')[_0x47a3b5(0x220)],_0x374e85=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1ef)),_0x175b39=document[_0x47a3b5(0x1cb)]('infT8')[_0x47a3b5(0x220)],_0x6f3ba=document[_0x47a3b5(0x1cb)]('iws8'),_0x15aef4=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x19f))['textContent'],_0x376ca9=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1ea)),_0x245369=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1f4))['textContent'],_0x3a791d=document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1e5)),_0x109545=function(){const _0x2dd0cf=_0x47a3b5;let _0x3b0757=window[_0x2dd0cf(0x1f7)];document[_0x2dd0cf(0x212)][_0x2dd0cf(0x219)][_0x2dd0cf(0x1d5)]('disable-scroll'),document[_0x2dd0cf(0x212)][_0x2dd0cf(0x18d)][_0x2dd0cf(0x201)]=_0x3b0757,document['body']['style']['top']=-_0x3b0757+'px';},_0x338b7e=function(){const _0x120096=_0x47a3b5;let _0x33619f=parseInt(document[_0x120096(0x212)][_0x120096(0x18d)]['position'],0xa);document[_0x120096(0x212)]['style'][_0x120096(0x1d3)]=_0x120096(0x1bf),document['body'][_0x120096(0x219)][_0x120096(0x191)](_0x120096(0x1a3)),window[_0x120096(0x1df)]({'top':_0x33619f,'left':0x0}),document['body'][_0x120096(0x1e6)]('data-position');};_0x5e718c[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{_0x5249cb(),_0x2a62e7();}),_0x1a7843[_0x47a3b5(0x19e)]('click',_0xd02f51=>{const _0x199bf7=_0x47a3b5;_0xd02f51[_0x199bf7(0x1b9)]==_0x1a7843&&_0x1b7fab();}),_0x59cdd4[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{_0x1b7fab();});const _0x5249cb=()=>{const _0x2e3712=_0x47a3b5;_0x1a7843[_0x2e3712(0x219)][_0x2e3712(0x1d5)]('is-open'),_0x109545();},_0x1b7fab=()=>{const _0x47d98f=_0x47a3b5;_0x1a7843[_0x47d98f(0x219)]['remove'](_0x47d98f(0x21b)),_0x109545();},_0x2a62e7=()=>{const _0x315a07=_0x47a3b5;_0x1a7843[_0x315a07(0x219)]['add'](_0x315a07(0x21b)),_0x109545(),setTimeout(()=>{const _0x5ea236=_0x315a07;_0x1a7843['querySelector']('.modal')[_0x5ea236(0x219)][_0x5ea236(0x1d5)](_0x5ea236(0x208));},0x64);},_0x5a60ef=()=>{const _0x33537b=_0x47a3b5;_0x1a7843[_0x33537b(0x1aa)](_0x33537b(0x1f2))[_0x33537b(0x219)][_0x33537b(0x191)](_0x33537b(0x208)),setTimeout(()=>{const _0x304d83=_0x33537b;_0x1a7843['classList'][_0x304d83(0x191)](_0x304d83(0x21b)),_0x338b7e();},0x12c);};_0x210be7['addEventListener'](_0x47a3b5(0x213),function(_0x24e838){_0x5a60ef();}),_0x210be7[_0x47a3b5(0x19e)]('click',function(_0x204035){_0x5a60ef();});if(_0x152d37[_0x47a3b5(0x215)]('CryptoBot')!==-0x1){_0x3bdd82[_0x47a3b5(0x19e)]('click',()=>{_0x42fdbf(),_0x17d8b5();}),_0x1a7843[_0x47a3b5(0x19e)]('click',_0x14bd67=>{const _0x418e4a=_0x47a3b5;_0x14bd67[_0x418e4a(0x1b9)]==_0x1a7843&&_0x11020f();}),_0x59cdd4[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{_0x11020f();});const _0x42fdbf=()=>{const _0x4d2647=_0x47a3b5;_0x1a7843[_0x4d2647(0x219)][_0x4d2647(0x1d5)]('is-open'),_0x109545();},_0x11020f=()=>{const _0x2c1fea=_0x47a3b5;_0x1a7843[_0x2c1fea(0x219)][_0x2c1fea(0x191)](_0x2c1fea(0x21b)),_0x109545();},_0x17d8b5=()=>{_0x1a7843['classList']['add']('is-open'),_0x109545(),setTimeout(()=>{const _0x450cf7=_0x2264;_0x1a7843[_0x450cf7(0x1aa)](_0x450cf7(0x1f2))[_0x450cf7(0x219)]['add'](_0x450cf7(0x208));},0x12c);},_0x3d59f3=()=>{const _0x448844=_0x47a3b5;_0x1a7843[_0x448844(0x1aa)](_0x448844(0x1f2))['classList']['remove']('visible'),setTimeout(()=>{const _0x20f84f=_0x448844;_0x1a7843['classList'][_0x20f84f(0x191)](_0x20f84f(0x21b)),_0x338b7e();},0x190);};_0x210be7[_0x47a3b5(0x19e)]('swiped-down',function(_0x438bad){_0x3d59f3();}),_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),function(_0x4a0c4f){_0x3d59f3();}),_0x210be7['addEventListener'](_0x47a3b5(0x1ab),()=>{const _0x118ccf=_0x47a3b5;_0x310b69[_0x118ccf(0x1e7)][_0x118ccf(0x1a5)]=_0x118ccf(0x185),_0x59e1ab[_0x118ccf(0x1e7)][_0x118ccf(0x1a5)]='none',_0x36f3bc[_0x118ccf(0x221)]=_0x118ccf(0x1f3),document['querySelector'](_0x118ccf(0x229))[_0x118ccf(0x1e7)]['display']=_0x118ccf(0x185);});}if(_0x4de07e['indexOf'](_0x47a3b5(0x1a2))!==-0x1){_0x3f4d1f['addEventListener'](_0x47a3b5(0x1ab),()=>{_0x26df44(),_0x42bb08();}),_0x1a7843[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),_0x1b0c5a=>{const _0x2e7656=_0x47a3b5;_0x1b0c5a[_0x2e7656(0x1b9)]==_0x1a7843&&_0x20626f();}),_0x59cdd4[_0x47a3b5(0x19e)]('click',()=>{_0x20626f();});const _0x26df44=()=>{const _0x5ec80d=_0x47a3b5;_0x1a7843[_0x5ec80d(0x219)][_0x5ec80d(0x1d5)]('is-open'),_0x109545();},_0x20626f=()=>{const _0x241ae6=_0x47a3b5;_0x1a7843[_0x241ae6(0x219)][_0x241ae6(0x191)](_0x241ae6(0x21b)),_0x109545();},_0x42bb08=()=>{const _0x280e36=_0x47a3b5;_0x1a7843[_0x280e36(0x219)][_0x280e36(0x1d5)](_0x280e36(0x21b)),_0x109545(),setTimeout(()=>{const _0x240b3e=_0x280e36;_0x1a7843[_0x240b3e(0x1aa)]('.modal')[_0x240b3e(0x219)]['add'](_0x240b3e(0x208));},0x12c);},_0x1946d9=()=>{const _0x333446=_0x47a3b5;_0x1a7843[_0x333446(0x1aa)]('.modal')[_0x333446(0x219)][_0x333446(0x191)]('visible'),setTimeout(()=>{const _0x4bd6bd=_0x333446;_0x1a7843[_0x4bd6bd(0x219)][_0x4bd6bd(0x191)]('is-open'),_0x338b7e();},0x190);};_0x210be7['addEventListener']('swiped-down',function(_0x10b803){_0x1946d9();}),_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),function(_0x5e4494){_0x1946d9();});}_0x210be7[_0x47a3b5(0x19e)]('click',()=>{const _0x28cf56=_0x47a3b5;_0x310b69[_0x28cf56(0x1e7)]['display']='none',_0x59e1ab['style'][_0x28cf56(0x1a5)]=_0x28cf56(0x185),_0x36f3bc[_0x28cf56(0x221)]=_0x28cf56(0x1f3),document[_0x28cf56(0x1aa)](_0x28cf56(0x229))[_0x28cf56(0x1e7)][_0x28cf56(0x1a5)]='none';});if(_0x3bc8b7[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1){_0x4dc018[_0x47a3b5(0x19e)]('click',()=>{_0x1f175f(),_0x12ddde();}),_0x1a7843[_0x47a3b5(0x19e)]('click',_0x4d0654=>{const _0x50aacf=_0x47a3b5;_0x4d0654[_0x50aacf(0x1b9)]==_0x1a7843&&_0x3bb41e();}),_0x59cdd4['addEventListener'](_0x47a3b5(0x1ab),()=>{_0x3bb41e();});const _0x1f175f=()=>{const _0x462b27=_0x47a3b5;_0x1a7843[_0x462b27(0x219)][_0x462b27(0x1d5)](_0x462b27(0x21b)),_0x109545();},_0x3bb41e=()=>{const _0x53460f=_0x47a3b5;_0x1a7843[_0x53460f(0x219)][_0x53460f(0x191)](_0x53460f(0x21b)),_0x109545();},_0x12ddde=()=>{const _0x110586=_0x47a3b5;_0x1a7843[_0x110586(0x219)][_0x110586(0x1d5)](_0x110586(0x21b)),_0x109545(),setTimeout(()=>{const _0x1c18a5=_0x110586;_0x1a7843[_0x1c18a5(0x1aa)](_0x1c18a5(0x1f2))[_0x1c18a5(0x219)]['add'](_0x1c18a5(0x208));},0x12c);},_0x55c133=()=>{const _0x3f4ef4=_0x47a3b5;_0x1a7843[_0x3f4ef4(0x1aa)](_0x3f4ef4(0x1f2))[_0x3f4ef4(0x219)]['remove']('visible'),setTimeout(()=>{const _0x2a5e9c=_0x3f4ef4;_0x1a7843['classList']['remove'](_0x2a5e9c(0x21b)),_0x338b7e();},0x190);};_0x210be7['addEventListener'](_0x47a3b5(0x213),function(_0x50492f){_0x55c133();}),_0x210be7['addEventListener'](_0x47a3b5(0x1ab),function(_0x30e01f){_0x55c133();}),_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x1b88e2=_0x47a3b5;_0x310b69[_0x1b88e2(0x1e7)][_0x1b88e2(0x1a5)]=_0x1b88e2(0x185),_0x59e1ab['style'][_0x1b88e2(0x1a5)]='none',_0x36f3bc['innerHTML']=_0x1b88e2(0x1f3),document['querySelector']('.pay_d')['style'][_0x1b88e2(0x1a5)]=_0x1b88e2(0x185);});}if(_0x11d42f[_0x47a3b5(0x215)]('CryptoBot')!==-0x1){_0x139261[_0x47a3b5(0x19e)]('click',()=>{_0xa13b87(),_0x5e6aee();}),_0x1a7843[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),_0x3a274a=>{const _0x15df02=_0x47a3b5;_0x3a274a[_0x15df02(0x1b9)]==_0x1a7843&&_0x1ec07d();}),_0x59cdd4[_0x47a3b5(0x19e)]('click',()=>{_0x1ec07d();});const _0xa13b87=()=>{const _0x4a2437=_0x47a3b5;_0x1a7843[_0x4a2437(0x219)][_0x4a2437(0x1d5)](_0x4a2437(0x21b)),_0x109545();},_0x1ec07d=()=>{const _0xc266d2=_0x47a3b5;_0x1a7843[_0xc266d2(0x219)][_0xc266d2(0x191)]('is-open'),_0x109545();},_0x5e6aee=()=>{const _0x2dd581=_0x47a3b5;_0x1a7843['classList'][_0x2dd581(0x1d5)]('is-open'),_0x109545(),setTimeout(()=>{const _0x1a5ba9=_0x2dd581;_0x1a7843['querySelector'](_0x1a5ba9(0x1f2))[_0x1a5ba9(0x219)][_0x1a5ba9(0x1d5)](_0x1a5ba9(0x208));},0x12c);},_0x3f4443=()=>{const _0x127663=_0x47a3b5;_0x1a7843['querySelector'](_0x127663(0x1f2))[_0x127663(0x219)]['remove']('visible'),setTimeout(()=>{const _0x5aac51=_0x127663;_0x1a7843[_0x5aac51(0x219)]['remove'](_0x5aac51(0x21b)),_0x338b7e();},0x190);};_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x213),function(_0x2283e4){_0x3f4443();}),_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),function(_0x52d8d1){_0x3f4443();}),_0x210be7['addEventListener'](_0x47a3b5(0x1ab),()=>{const _0xc76b6f=_0x47a3b5;_0x310b69[_0xc76b6f(0x1e7)][_0xc76b6f(0x1a5)]='none',_0x59e1ab['style'][_0xc76b6f(0x1a5)]='none',_0x36f3bc[_0xc76b6f(0x221)]=_0xc76b6f(0x1f3),document[_0xc76b6f(0x1aa)](_0xc76b6f(0x229))[_0xc76b6f(0x1e7)][_0xc76b6f(0x1a5)]='none';});}if(_0x4e689a['indexOf']('CryptoBot')!==-0x1){_0x4ea349['addEventListener'](_0x47a3b5(0x1ab),()=>{_0x516a5f(),_0xce7b6c();}),_0x1a7843[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),_0x4f609b=>{const _0x55027e=_0x47a3b5;_0x4f609b[_0x55027e(0x1b9)]==_0x1a7843&&_0x2b7ef5();}),_0x59cdd4[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{_0x2b7ef5();});const _0x516a5f=()=>{const _0x34139e=_0x47a3b5;_0x1a7843[_0x34139e(0x219)][_0x34139e(0x1d5)](_0x34139e(0x21b)),_0x109545();},_0x2b7ef5=()=>{const _0xb3dde1=_0x47a3b5;_0x1a7843[_0xb3dde1(0x219)][_0xb3dde1(0x191)](_0xb3dde1(0x21b)),_0x109545();},_0xce7b6c=()=>{const _0x398e1b=_0x47a3b5;_0x1a7843[_0x398e1b(0x219)]['add'](_0x398e1b(0x21b)),_0x109545(),setTimeout(()=>{const _0x312984=_0x398e1b;_0x1a7843[_0x312984(0x1aa)](_0x312984(0x1f2))[_0x312984(0x219)]['add'](_0x312984(0x208));},0x12c);},_0x389093=()=>{const _0xf47c08=_0x47a3b5;_0x1a7843[_0xf47c08(0x1aa)]('.modal')[_0xf47c08(0x219)]['remove'](_0xf47c08(0x208)),setTimeout(()=>{const _0x3aadca=_0xf47c08;_0x1a7843[_0x3aadca(0x219)][_0x3aadca(0x191)](_0x3aadca(0x21b)),_0x338b7e();},0x190);};_0x210be7['addEventListener'](_0x47a3b5(0x213),function(_0x2c20da){_0x389093();}),_0x210be7['addEventListener'](_0x47a3b5(0x1ab),function(_0x416c70){_0x389093();}),_0x210be7['addEventListener'](_0x47a3b5(0x1ab),()=>{const _0x4f6bd2=_0x47a3b5;_0x310b69[_0x4f6bd2(0x1e7)][_0x4f6bd2(0x1a5)]=_0x4f6bd2(0x185),_0x59e1ab[_0x4f6bd2(0x1e7)][_0x4f6bd2(0x1a5)]=_0x4f6bd2(0x185),_0x36f3bc['innerHTML']=_0x4f6bd2(0x1f3),document[_0x4f6bd2(0x1aa)]('.pay_d')[_0x4f6bd2(0x1e7)][_0x4f6bd2(0x1a5)]=_0x4f6bd2(0x185);});}if(_0x1ca7ec[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1){_0x28d17b['addEventListener'](_0x47a3b5(0x1ab),()=>{_0x358e30(),_0xd372a5();}),_0x1a7843[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),_0x16a996=>{_0x16a996['target']==_0x1a7843&&_0x33f7d7();}),_0x59cdd4['addEventListener'](_0x47a3b5(0x1ab),()=>{_0x33f7d7();});const _0x358e30=()=>{const _0x27b5ab=_0x47a3b5;_0x1a7843[_0x27b5ab(0x219)][_0x27b5ab(0x1d5)](_0x27b5ab(0x21b)),_0x109545();},_0x33f7d7=()=>{_0x1a7843['classList']['remove']('is-open'),_0x109545();},_0xd372a5=()=>{const _0x28953b=_0x47a3b5;_0x1a7843[_0x28953b(0x219)][_0x28953b(0x1d5)](_0x28953b(0x21b)),_0x109545(),setTimeout(()=>{const _0x16231d=_0x28953b;_0x1a7843[_0x16231d(0x1aa)](_0x16231d(0x1f2))[_0x16231d(0x219)][_0x16231d(0x1d5)](_0x16231d(0x208));},0x12c);},_0x133de7=()=>{const _0x520fb6=_0x47a3b5;_0x1a7843['querySelector']('.modal')[_0x520fb6(0x219)][_0x520fb6(0x191)]('visible'),setTimeout(()=>{const _0x100344=_0x520fb6;_0x1a7843[_0x100344(0x219)][_0x100344(0x191)](_0x100344(0x21b)),_0x338b7e();},0x190);};_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x213),function(_0x13324b){_0x133de7();}),_0x210be7['addEventListener']('click',function(_0x1861f3){_0x133de7();}),_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x2f5ac6=_0x47a3b5;_0x310b69[_0x2f5ac6(0x1e7)][_0x2f5ac6(0x1a5)]='none',_0x59e1ab[_0x2f5ac6(0x1e7)]['display']='none',_0x36f3bc['innerHTML']=_0x2f5ac6(0x1f3),document[_0x2f5ac6(0x1aa)]('.pay_d')[_0x2f5ac6(0x1e7)][_0x2f5ac6(0x1a5)]=_0x2f5ac6(0x185);});}if(_0x1f5562[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1){_0x28d17b[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{_0x59a6f4(),_0x38d30f();}),_0x1a7843[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),_0x89ab19=>{const _0x144eff=_0x47a3b5;_0x89ab19[_0x144eff(0x1b9)]==_0x1a7843&&_0x30b697();}),_0x59cdd4[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{_0x30b697();});const _0x59a6f4=()=>{const _0x154c33=_0x47a3b5;_0x1a7843[_0x154c33(0x219)][_0x154c33(0x1d5)](_0x154c33(0x21b)),_0x109545();},_0x30b697=()=>{const _0x56abc0=_0x47a3b5;_0x1a7843['classList'][_0x56abc0(0x191)]('is-open'),_0x109545();},_0x38d30f=()=>{const _0x19ece3=_0x47a3b5;_0x1a7843[_0x19ece3(0x219)][_0x19ece3(0x1d5)]('is-open'),_0x109545(),setTimeout(()=>{const _0x56538f=_0x19ece3;_0x1a7843[_0x56538f(0x1aa)]('.modal')['classList'][_0x56538f(0x1d5)](_0x56538f(0x208));},0x12c);},_0x48b3ea=()=>{const _0x5119ab=_0x47a3b5;_0x1a7843['querySelector'](_0x5119ab(0x1f2))[_0x5119ab(0x219)][_0x5119ab(0x191)](_0x5119ab(0x208)),setTimeout(()=>{const _0x51de50=_0x5119ab;_0x1a7843[_0x51de50(0x219)][_0x51de50(0x191)](_0x51de50(0x21b)),_0x338b7e();},0x190);};_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x213),function(_0x21df0e){_0x48b3ea();}),_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),function(_0x5df78e){_0x48b3ea();}),_0x210be7[_0x47a3b5(0x19e)]('click',()=>{const _0x430e6d=_0x47a3b5;_0x310b69[_0x430e6d(0x1e7)][_0x430e6d(0x1a5)]='none',_0x59e1ab[_0x430e6d(0x1e7)][_0x430e6d(0x1a5)]=_0x430e6d(0x185),_0x36f3bc[_0x430e6d(0x221)]=_0x430e6d(0x1f3),document[_0x430e6d(0x1aa)](_0x430e6d(0x229))[_0x430e6d(0x1e7)]['display']=_0x430e6d(0x185);});}_0x368713[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x2243a9=_0x47a3b5;_0x310b69[_0x2243a9(0x1e7)]['display']='none',_0x36f3bc[_0x2243a9(0x221)]='CryptoBot',_0x59e1ab['style']['display']='block';}),document[_0x47a3b5(0x1aa)]('.acp')[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x20dc9f=_0x47a3b5;_0x310b69[_0x20dc9f(0x1e7)][_0x20dc9f(0x1a5)]=_0x20dc9f(0x1c2),document[_0x20dc9f(0x1aa)](_0x20dc9f(0x229))[_0x20dc9f(0x1e7)][_0x20dc9f(0x1a5)]=_0x20dc9f(0x185),_0x59e1ab[_0x20dc9f(0x1e7)][_0x20dc9f(0x1a5)]=_0x20dc9f(0x185);}),_0x210be7[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x49534f=_0x47a3b5;document[_0x49534f(0x1aa)](_0x49534f(0x229))[_0x49534f(0x1e7)][_0x49534f(0x1a5)]=_0x49534f(0x185),_0x59e1ab[_0x49534f(0x1e7)][_0x49534f(0x1a5)]='none';}),_0x8dff26['addEventListener'](_0x47a3b5(0x1a4),()=>{const _0x160b44=_0x47a3b5;_0x8dff26=document[_0x160b44(0x1cb)](_0x160b44(0x1c1))[_0x160b44(0x1dd)];let _0x9ed6eb=parseFloat(_0x8dff26);_0x9ed6eb>0x1&&_0x9ed6eb<0x3e8?(console[_0x160b44(0x195)](_0x9ed6eb),_0x25dba3['style'][_0x160b44(0x1e4)]=_0x160b44(0x1e9),_0x25dba3[_0x160b44(0x192)](_0x160b44(0x1e0),'submit')):(_0x25dba3[_0x160b44(0x1e7)][_0x160b44(0x1e4)]=_0x160b44(0x1ae),_0x25dba3[_0x160b44(0x192)](_0x160b44(0x1e0),_0x160b44(0x1d8)));}),_0x152d37[_0x47a3b5(0x215)]('CryptoBot')!==-0x1&&(_0x3dc5a8[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),_0x1e0b20[_0x47a3b5(0x221)]='Receive',_0x1be9d5[_0x47a3b5(0x221)]=_0x47a3b5(0x197),_0x28cdd1['style'][_0x47a3b5(0x1a5)]=_0x47a3b5(0x225)),_0x152d37['indexOf']('1')!==-0x1&&(_0x3dc5a8[_0x47a3b5(0x1da)]=_0x47a3b5(0x194),_0x1e0b20[_0x47a3b5(0x221)]=_0x47a3b5(0x228),_0x1be9d5['innerHTML']='Completed',_0x28cdd1['style'][_0x47a3b5(0x1a5)]=_0x47a3b5(0x225)),_0x152d37[_0x47a3b5(0x215)](_0x47a3b5(0x209))!==-0x1&&(_0x3dc5a8[_0x47a3b5(0x1da)]=_0x47a3b5(0x1af),_0x1e0b20[_0x47a3b5(0x221)]=_0x47a3b5(0x20e),_0x1be9d5[_0x47a3b5(0x221)]=_0x47a3b5(0x1fe),_0x28cdd1[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]=_0x47a3b5(0x225)),_0x4de07e[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&(_0x318ac1[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),_0x17c568[_0x47a3b5(0x221)]='Receive',_0x12d0a4[_0x47a3b5(0x221)]=_0x47a3b5(0x197),_0x310bae['style']['display']=_0x47a3b5(0x225)),_0x4de07e[_0x47a3b5(0x215)](_0x47a3b5(0x209))!==-0x1&&(_0x318ac1[_0x47a3b5(0x1da)]=_0x47a3b5(0x1af),_0x17c568[_0x47a3b5(0x221)]=_0x47a3b5(0x20e),_0x12d0a4['innerHTML']=_0x47a3b5(0x1fe),_0x310bae[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]=_0x47a3b5(0x225)),_0x3bc8b7[_0x47a3b5(0x215)]('CryptoBot')!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x18b))[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),document[_0x47a3b5(0x1cb)]('tws3')[_0x47a3b5(0x221)]='Receive',document[_0x47a3b5(0x1cb)](_0x47a3b5(0x189))['innerHTML']='In\x20proccess',document[_0x47a3b5(0x1cb)](_0x47a3b5(0x20d))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]=_0x47a3b5(0x225)),_0x3bc8b7[_0x47a3b5(0x215)](_0x47a3b5(0x209))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x18b))['src']=_0x47a3b5(0x1af),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x20b))[_0x47a3b5(0x221)]=_0x47a3b5(0x20e),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x20d))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]=_0x47a3b5(0x1fe),document[_0x47a3b5(0x1cb)]('row3')[_0x47a3b5(0x1e7)]['display']='inline-block'),_0x11d42f[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1c7))[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),document['getElementById'](_0x47a3b5(0x1de))['innerHTML']=_0x47a3b5(0x21f),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x187))['innerHTML']=_0x47a3b5(0x197),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1d2))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]='inline-block'),_0x11d42f[_0x47a3b5(0x215)](_0x47a3b5(0x209))!==-0x1&&(document['getElementById'](_0x47a3b5(0x1c7))[_0x47a3b5(0x1da)]='https://tptradix.github.io/OpenWorksUI/img/work_case.png',document['getElementById'](_0x47a3b5(0x1de))[_0x47a3b5(0x221)]=_0x47a3b5(0x20e),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1d2))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]=_0x47a3b5(0x1fe),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1d2))[_0x47a3b5(0x1e7)]['display']=_0x47a3b5(0x225)),_0x4e689a[_0x47a3b5(0x215)](_0x47a3b5(0x209))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x19a))[_0x47a3b5(0x1da)]=_0x47a3b5(0x1af),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1d9))[_0x47a3b5(0x221)]=_0x47a3b5(0x20e),document['getElementById'](_0x47a3b5(0x1c4))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]=_0x47a3b5(0x1fe),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1c4))['style'][_0x47a3b5(0x1a5)]='inline-block'),_0x4e689a[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x19a))[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1d9))['innerHTML']=_0x47a3b5(0x21f),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1c3))[_0x47a3b5(0x221)]=_0x47a3b5(0x197),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1c4))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]='inline-block'),_0x1ca7ec[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&(document['getElementById'](_0x47a3b5(0x19c))[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),document['getElementById'](_0x47a3b5(0x1ac))[_0x47a3b5(0x221)]=_0x47a3b5(0x21f),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1be))[_0x47a3b5(0x221)]=_0x47a3b5(0x197),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1a7))['style']['display']=_0x47a3b5(0x225)),_0x1ca7ec[_0x47a3b5(0x215)](_0x47a3b5(0x209))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x19c))['src']=_0x47a3b5(0x1af),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1ac))[_0x47a3b5(0x221)]=_0x47a3b5(0x20e),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1a7))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]=_0x47a3b5(0x1fe),document['getElementById'](_0x47a3b5(0x1a7))[_0x47a3b5(0x1e7)]['display']=_0x47a3b5(0x225)),_0x1f5562['indexOf'](_0x47a3b5(0x1a2))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1ef))[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1e2))[_0x47a3b5(0x221)]='Receive',document[_0x47a3b5(0x1cb)](_0x47a3b5(0x20a))[_0x47a3b5(0x221)]=_0x47a3b5(0x197),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x202))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]=_0x47a3b5(0x225)),_0x175b39[_0x47a3b5(0x215)](_0x47a3b5(0x209))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1d4))['src']=_0x47a3b5(0x227),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1c0))[_0x47a3b5(0x221)]=_0x47a3b5(0x21f),document['getElementById'](_0x47a3b5(0x1f1))[_0x47a3b5(0x221)]=_0x47a3b5(0x197),document['getElementById'](_0x47a3b5(0x1ed))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]='inline-block'),_0x175b39[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1d4))[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),document[_0x47a3b5(0x1cb)]('tws8')[_0x47a3b5(0x221)]=_0x47a3b5(0x21f),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1f1))['innerHTML']='In\x20proccess',document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1ed))[_0x47a3b5(0x1e7)][_0x47a3b5(0x1a5)]='inline-block'),_0x15aef4[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1ea))[_0x47a3b5(0x1da)]='https://tptradix.github.io/OpenWorksUI/img/cash.png',document['getElementById'](_0x47a3b5(0x1b2))[_0x47a3b5(0x221)]=_0x47a3b5(0x21f),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1a1))[_0x47a3b5(0x221)]=_0x47a3b5(0x197),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x188))['style'][_0x47a3b5(0x1a5)]='inline-block'),_0x15aef4['indexOf']('work')!==-0x1&&(document[_0x47a3b5(0x1cb)]('iws9')[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),document['getElementById'](_0x47a3b5(0x1b2))[_0x47a3b5(0x221)]=_0x47a3b5(0x21f),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1a1))[_0x47a3b5(0x221)]=_0x47a3b5(0x197),document[_0x47a3b5(0x1cb)]('row9')['style']['display']=_0x47a3b5(0x225)),_0x245369['indexOf']('CryptoBot')!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1e5))['src']=_0x47a3b5(0x227),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x198))[_0x47a3b5(0x221)]=_0x47a3b5(0x21f),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x226))[_0x47a3b5(0x221)]=_0x47a3b5(0x197),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1b4))['style'][_0x47a3b5(0x1a5)]=_0x47a3b5(0x225)),_0x245369[_0x47a3b5(0x215)](_0x47a3b5(0x209))!==-0x1&&(document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1e5))[_0x47a3b5(0x1da)]=_0x47a3b5(0x227),document[_0x47a3b5(0x1cb)]('tws10')[_0x47a3b5(0x221)]=_0x47a3b5(0x21f),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x226))['innerHTML']=_0x47a3b5(0x197),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1b4))['style'][_0x47a3b5(0x1a5)]=_0x47a3b5(0x225)),_0x152d37[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&_0x3dc5a8['addEventListener'](_0x47a3b5(0x1ab),()=>{const _0xbddf83=_0x47a3b5;document[_0xbddf83(0x1aa)](_0xbddf83(0x229))['style'][_0xbddf83(0x1a5)]=_0xbddf83(0x206),_0x59e1ab[_0xbddf83(0x1e7)][_0xbddf83(0x1a5)]=_0xbddf83(0x185),_0x36f3bc[_0xbddf83(0x221)]=_0xbddf83(0x21f),document[_0xbddf83(0x1aa)](_0xbddf83(0x19d))['href']=document[_0xbddf83(0x1cb)]('infT1')[_0xbddf83(0x220)],document[_0xbddf83(0x1cb)](_0xbddf83(0x1ad))[_0xbddf83(0x1dd)]=document['querySelector'](_0xbddf83(0x1ca))[_0xbddf83(0x220)];}),_0x4de07e[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&_0x318ac1[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x4cd4e7=_0x47a3b5;document[_0x4cd4e7(0x1aa)](_0x4cd4e7(0x229))[_0x4cd4e7(0x1e7)][_0x4cd4e7(0x1a5)]=_0x4cd4e7(0x206),_0x59e1ab[_0x4cd4e7(0x1e7)]['display']=_0x4cd4e7(0x185),_0x36f3bc['innerHTML']=_0x4cd4e7(0x21f),document[_0x4cd4e7(0x1aa)](_0x4cd4e7(0x19d))[_0x4cd4e7(0x1ff)]=document[_0x4cd4e7(0x1cb)](_0x4cd4e7(0x1f8))[_0x4cd4e7(0x220)],document[_0x4cd4e7(0x1cb)](_0x4cd4e7(0x1ad))[_0x4cd4e7(0x1dd)]=document[_0x4cd4e7(0x1aa)](_0x4cd4e7(0x21e))[_0x4cd4e7(0x220)][_0x4cd4e7(0x200)]('\x20')[_0x4cd4e7(0x18c)](''),console[_0x4cd4e7(0x195)](document[_0x4cd4e7(0x1cb)](_0x4cd4e7(0x1ad))[_0x4cd4e7(0x1dd)]);}),_0x3bc8b7['indexOf'](_0x47a3b5(0x1a2))!==-0x1&&_0x10d1bd['addEventListener'](_0x47a3b5(0x1ab),()=>{const _0x1327c7=_0x47a3b5;document[_0x1327c7(0x1aa)]('.pay_d')[_0x1327c7(0x1e7)]['display']=_0x1327c7(0x206),_0x59e1ab['style']['display']=_0x1327c7(0x185),_0x36f3bc[_0x1327c7(0x221)]=_0x1327c7(0x21f),document['querySelector'](_0x1327c7(0x19d))[_0x1327c7(0x1ff)]=document[_0x1327c7(0x1cb)](_0x1327c7(0x205))[_0x1327c7(0x220)],document[_0x1327c7(0x1cb)](_0x1327c7(0x1ad))[_0x1327c7(0x1dd)]=document['querySelector']('.at_id_3')[_0x1327c7(0x220)][_0x1327c7(0x200)]('\x20')['join'](''),console['log'](document[_0x1327c7(0x1cb)](_0x1327c7(0x1ad))[_0x1327c7(0x1dd)]);}),_0x11d42f[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&_0x5cd3b5[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x1214f5=_0x47a3b5;document['querySelector']('.pay_d')['style'][_0x1214f5(0x1a5)]=_0x1214f5(0x206),_0x59e1ab[_0x1214f5(0x1e7)][_0x1214f5(0x1a5)]=_0x1214f5(0x185),_0x36f3bc['innerHTML']=_0x1214f5(0x21f),document['querySelector']('.acpt_i')[_0x1214f5(0x1ff)]=document[_0x1214f5(0x1cb)](_0x1214f5(0x207))['textContent'],document[_0x1214f5(0x1cb)]('del_f')[_0x1214f5(0x1dd)]=document[_0x1214f5(0x1aa)](_0x1214f5(0x1b3))[_0x1214f5(0x220)]['split']('\x20')[_0x1214f5(0x18c)](''),console[_0x1214f5(0x195)](document[_0x1214f5(0x1cb)](_0x1214f5(0x1ad))[_0x1214f5(0x1dd)]);}),_0x4e689a[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&_0x221948['addEventListener']('click',()=>{const _0x395f91=_0x47a3b5;document['querySelector'](_0x395f91(0x229))['style']['display']=_0x395f91(0x206),_0x59e1ab[_0x395f91(0x1e7)][_0x395f91(0x1a5)]=_0x395f91(0x185),_0x36f3bc[_0x395f91(0x221)]=_0x395f91(0x21f),document[_0x395f91(0x1aa)](_0x395f91(0x19d))[_0x395f91(0x1ff)]=document[_0x395f91(0x1cb)](_0x395f91(0x204))[_0x395f91(0x220)],document[_0x395f91(0x1cb)](_0x395f91(0x1ad))[_0x395f91(0x1dd)]=document[_0x395f91(0x1aa)]('.at_id_5')['textContent'][_0x395f91(0x200)]('\x20')[_0x395f91(0x18c)](''),console[_0x395f91(0x195)](document[_0x395f91(0x1cb)](_0x395f91(0x1ad))[_0x395f91(0x1dd)]);}),_0x1ca7ec[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&_0x16c437[_0x47a3b5(0x19e)]('click',()=>{const _0x439667=_0x47a3b5;document[_0x439667(0x1aa)](_0x439667(0x229))['style']['display']=_0x439667(0x206),_0x59e1ab[_0x439667(0x1e7)][_0x439667(0x1a5)]=_0x439667(0x185),_0x36f3bc['innerHTML']=_0x439667(0x21f),document[_0x439667(0x1aa)](_0x439667(0x19d))[_0x439667(0x1ff)]=document[_0x439667(0x1cb)](_0x439667(0x1db))['textContent'],document[_0x439667(0x1cb)](_0x439667(0x1ad))[_0x439667(0x1dd)]=document[_0x439667(0x1aa)]('.at_id_6')[_0x439667(0x220)][_0x439667(0x200)]('\x20')[_0x439667(0x18c)](''),console['log'](document[_0x439667(0x1cb)](_0x439667(0x1ad))['value']);}),_0x1f5562[_0x47a3b5(0x215)](_0x47a3b5(0x1a2))!==-0x1&&_0x374e85[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0xae6684=_0x47a3b5;document['querySelector'](_0xae6684(0x229))[_0xae6684(0x1e7)][_0xae6684(0x1a5)]=_0xae6684(0x206),_0x59e1ab[_0xae6684(0x1e7)]['display']=_0xae6684(0x185),_0x36f3bc['innerHTML']=_0xae6684(0x21f),document[_0xae6684(0x1aa)](_0xae6684(0x19d))['href']=document[_0xae6684(0x1cb)](_0xae6684(0x1c5))['textContent'],document['getElementById']('del_f')[_0xae6684(0x1dd)]=document[_0xae6684(0x1aa)](_0xae6684(0x224))[_0xae6684(0x220)]['split']('\x20')['join'](''),console[_0xae6684(0x195)](document[_0xae6684(0x1cb)](_0xae6684(0x1ad))[_0xae6684(0x1dd)]);}),_0x175b39[_0x47a3b5(0x215)]('CryptoBot')!==-0x1&&_0x6f3ba[_0x47a3b5(0x19e)]('click',()=>{const _0x355df0=_0x47a3b5;document[_0x355df0(0x1aa)](_0x355df0(0x229))[_0x355df0(0x1e7)][_0x355df0(0x1a5)]='grid',_0x59e1ab[_0x355df0(0x1e7)][_0x355df0(0x1a5)]=_0x355df0(0x185),_0x36f3bc[_0x355df0(0x221)]=_0x355df0(0x21f),document['querySelector'](_0x355df0(0x19d))[_0x355df0(0x1ff)]=document[_0x355df0(0x1cb)](_0x355df0(0x190))[_0x355df0(0x220)],document[_0x355df0(0x1cb)](_0x355df0(0x1ad))[_0x355df0(0x1dd)]=document[_0x355df0(0x1aa)](_0x355df0(0x1c6))[_0x355df0(0x220)]['split']('\x20')[_0x355df0(0x18c)](''),console['log'](document['getElementById'](_0x355df0(0x1ad))[_0x355df0(0x1dd)]);}),_0x15aef4[_0x47a3b5(0x215)]('CryptoBot')!==-0x1&&_0x376ca9[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x2f1e60=_0x47a3b5;document['querySelector']('.pay_d')[_0x2f1e60(0x1e7)]['display']=_0x2f1e60(0x206),_0x59e1ab['style']['display']=_0x2f1e60(0x185),_0x36f3bc[_0x2f1e60(0x221)]=_0x2f1e60(0x21f),document['querySelector'](_0x2f1e60(0x19d))[_0x2f1e60(0x1ff)]=document[_0x2f1e60(0x1cb)](_0x2f1e60(0x19f))[_0x2f1e60(0x220)],document[_0x2f1e60(0x1cb)](_0x2f1e60(0x1ad))[_0x2f1e60(0x1dd)]=document[_0x2f1e60(0x1aa)]('.at_id_9')[_0x2f1e60(0x220)][_0x2f1e60(0x200)]('\x20')['join'](''),console[_0x2f1e60(0x195)](document[_0x2f1e60(0x1cb)]('del_f')[_0x2f1e60(0x1dd)]);}),_0x245369[_0x47a3b5(0x215)]('CryptoBot')!==-0x1&&_0x3a791d[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x47a7f8=_0x47a3b5;document[_0x47a7f8(0x1aa)](_0x47a7f8(0x229))[_0x47a7f8(0x1e7)][_0x47a7f8(0x1a5)]=_0x47a7f8(0x206),_0x59e1ab[_0x47a7f8(0x1e7)][_0x47a7f8(0x1a5)]=_0x47a7f8(0x185),_0x36f3bc['innerHTML']=_0x47a7f8(0x21f),document[_0x47a7f8(0x1aa)](_0x47a7f8(0x19d))['href']=document[_0x47a7f8(0x1cb)](_0x47a7f8(0x1f4))[_0x47a7f8(0x220)],document['getElementById']('del_f')[_0x47a7f8(0x1dd)]=document['querySelector'](_0x47a7f8(0x1ba))[_0x47a7f8(0x220)][_0x47a7f8(0x200)]('\x20')[_0x47a7f8(0x18c)](''),console[_0x47a7f8(0x195)](document[_0x47a7f8(0x1cb)](_0x47a7f8(0x1ad))[_0x47a7f8(0x1dd)]);}),document[_0x47a3b5(0x1cb)]('re')['addEventListener'](_0x47a3b5(0x1ab),()=>{const _0x186bb8=_0x47a3b5;window[_0x186bb8(0x218)][_0x186bb8(0x1d1)]();}),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1a9))[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x2f6619=_0x47a3b5;document['getElementById'](_0x2f6619(0x1f6))[_0x2f6619(0x1e7)][_0x2f6619(0x1a5)]=_0x2f6619(0x1d6),setTimeout(function(){const _0x545604=_0x2f6619;document[_0x545604(0x1cb)](_0x545604(0x1f6))[_0x545604(0x1e7)][_0x545604(0x1a5)]=_0x545604(0x185);},0x3e8);}),document[_0x47a3b5(0x1cb)](_0x47a3b5(0x1e8))[_0x47a3b5(0x19e)](_0x47a3b5(0x1ab),()=>{const _0x14de52=_0x47a3b5,_0x54dd55=document['querySelector'](_0x14de52(0x19b));let _0x36202d=0x1;const _0x4fd966=setInterval(()=>{const _0x55d471=_0x14de52;_0x36202d<=0x0?(clearInterval(_0x4fd966),_0x54dd55[_0x55d471(0x1e7)][_0x55d471(0x1a5)]='none',_0x2535fc()):(_0x36202d-=0.2,_0x54dd55[_0x55d471(0x1e7)][_0x55d471(0x1f9)]=_0x36202d);function _0x2535fc(){setInterval(()=>{const _0x34836a=_0x2264;document[_0x34836a(0x1aa)](_0x34836a(0x19b))['style'][_0x34836a(0x1f9)]=0x1,document['querySelector'](_0x34836a(0x19b))[_0x34836a(0x1e7)]['display']=_0x34836a(0x1c2);},0x3e8);}},0x1f4);});}()));
+!function() {
+    document.body.onselectstart = function() { return false; }
+	const chx = ["modules", "cash", "root"]
+	const list = ["Android", "iPhone", "Safari", "iPad", "Chrome", "Opera"]
+	var d = function(chx) {
+		var d = (navigator.userAgent); var ug = ["agent:", d]
+		if (d != null) {
+			return console.log(d)
+			var temp = function(chx) {
+				data = [{
+					"locale": d,
+					"check": chx[1],
+					"nl": list
+				}]
+
+			}(chx);
+		} else {
+			window.location.replace("https://vercel.com");
+		}
+
+	}(chx);
+
+   
+	const openBtn = document.querySelector('.acp');
+    const openBtnL1 = document.getElementById('iws1');
+    const openBtnL2 = document.getElementById('iws2');
+    const openBtnL3 = document.getElementById('iws3');
+    const openBtnL4 = document.getElementById('iws4');
+    const openBtnL5 = document.getElementById('iws5');
+    const openBtnL6 = document.getElementById('iws6');
+    const openBtnL7 = document.getElementById('iws7');
+    const openBtnL8 = document.getElementById('iws8');
+    const openBtnL9 = document.getElementById('iws9');
+    const openBtnL10 = document.getElementById('iws10');
+	const modal = document.querySelector('.modals');
+	const closeBtn = document.querySelector('.modal__btn');
+	const mobileClose = document.querySelector('.mobile-close');
+	const exit = document.querySelector(".form__btn");
+    let isCrypto = document.getElementById('cp');
+    let onev = document.querySelector('.one_v_l');
+    let ch1 = document.getElementById('i_pc');
+    let form_c = document.querySelector('.c_form');
+    let cp_amount = document.getElementById('cp_amount');
+    let cryptobot = document.querySelector('.cp_pay');
+    let cryptobotb = document.getElementById('cp');
+    let drow1 = document.getElementById('row1');
+    let wst1 = document.getElementById('infT1').textContent;
+    let iwst1 = document.getElementById('iws1');
+    let twst1 = document.getElementById('tws1');
+    let pwst1 = document.getElementById('pws1');
+    let drow2 = document.getElementById('row2');
+    let wst2 = document.getElementById('infT2').textContent;
+    let iwst2 = document.getElementById('iws2');
+    let twst2 = document.getElementById('tws2');
+    let pwst2 = document.getElementById('pws2');
+    let wst3 = document.getElementById('infT3').textContent;
+    let iwst3 = document.getElementById('iws3');
+    let wst4 = document.getElementById('infT4').textContent;
+    let iwst4 = document.getElementById('iws4');
+    let wst5 = document.getElementById('infT5').textContent;
+    let iwst5 = document.getElementById('iws5');
+    let wst6 = document.getElementById('infT6').textContent;
+    let iwst6 = document.getElementById('iws6');
+    let wst7 = document.getElementById('infT7').textContent;
+    let iwst7 = document.getElementById('iws7');
+    let wst8 = document.getElementById('infT8').textContent;
+    let iwst8 = document.getElementById('iws8');
+    let wst9 = document.getElementById('infT9').textContent;
+    let iwst9 = document.getElementById('iws9');
+    let wst10 = document.getElementById('infT10').textContent;
+    let iwst10 = document.getElementById('iws10');
+
+
+
+
+	let disableScroll = function () {
+		let pagePosition = window.scrollY;
+		document.body.classList.add('disable-scroll');
+		document.body.dataset.position = pagePosition;
+		document.body.style.top = -pagePosition + 'px';
+	}
+
+	let enableScroll = function () {
+		let pagePosition = parseInt(document.body.dataset.position, 10);
+		document.body.style.top = 'auto';
+		document.body.classList.remove('disable-scroll');
+		window.scroll({ top: pagePosition, left: 0 });
+		document.body.removeAttribute('data-position');
+	}
+
+	openBtn.addEventListener('click', () => {
+		openModalDesktop();
+		openModalMobile();
+	});
+
+	modal.addEventListener('click', (e) => {
+		if (e.target == modal) {
+			closeModal();
+		}
+	});
+
+	closeBtn.addEventListener('click', () => {
+		closeModal();
+	});
+
+	const openModalDesktop = () => {
+		modal.classList.add('is-open');
+		disableScroll();
+	}
+
+	const closeModal = () => {
+		modal.classList.remove('is-open');
+		disableScroll();
+	}
+
+	const openModalMobile = () => {
+		modal.classList.add('is-open');
+		disableScroll();
+		setTimeout(() => {
+			modal.querySelector('.modal').classList.add('visible');
+		}, 100);
+	}
+
+	const closeModalMobile = () => {
+		modal.querySelector('.modal').classList.remove('visible');
+		setTimeout(() => {
+			modal.classList.remove('is-open');
+			enableScroll();
+		}, 300);
+	}
+
+	mobileClose.addEventListener('swiped-down', function (e) {
+		closeModalMobile();
+	});
+
+	mobileClose.addEventListener('click', function (e) {
+		closeModalMobile();
+	});
+
+    //n
+
+    if (wst1.indexOf("CryptoBot") !== -1) {
+        openBtnL1.addEventListener('click', () => {
+            openModalDesktopL();
+            openModalMobileL();
+        });
+
+        modal.addEventListener('click', (e) => {
+            if (e.target == modal) {
+                closeModalL();
+            }
+        });
+
+        closeBtn.addEventListener('click', () => {
+            closeModalL();
+        });
+
+        const openModalDesktopL = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+        }
+
+        const closeModalL = () => {
+            modal.classList.remove('is-open');
+            disableScroll();
+        }
+
+        const openModalMobileL = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+            setTimeout(() => {
+                modal.querySelector('.modal').classList.add('visible');
+            }, 300);
+        }
+
+        const closeModalMobileL = () => {
+            modal.querySelector('.modal').classList.remove('visible');
+            setTimeout(() => {
+                modal.classList.remove('is-open');
+                enableScroll();
+            }, 400);
+        }
+
+        mobileClose.addEventListener('swiped-down', function (e) {
+            closeModalMobileL();
+        });
+
+        mobileClose.addEventListener('click', function (e) {
+            closeModalMobileL();
+        });
+
+
+        mobileClose.addEventListener('click', () => {
+            onev.style.display = 'none';
+            form_c.style.display = 'none';
+            ch1.innerHTML = 'Payment Method'
+            document.querySelector('.pay_d').style.display = 'none'
+        });
+    }
+
+    //2
+    if (wst2.indexOf("CryptoBot") !== -1) {
+        openBtnL2.addEventListener('click', () => {
+            openModalDesktopL2();
+            openModalMobileL2();
+        });
+
+        modal.addEventListener('click', (e) => {
+            if (e.target == modal) {
+                closeModalL2();
+            }
+        });
+
+        closeBtn.addEventListener('click', () => {
+            closeModalL2();
+        });
+
+        const openModalDesktopL2 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+        }
+
+        const closeModalL2 = () => {
+            modal.classList.remove('is-open');
+            disableScroll();
+        }
+
+        const openModalMobileL2 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+            setTimeout(() => {
+                modal.querySelector('.modal').classList.add('visible');
+            }, 300);
+        }
+
+        const closeModalMobileL2 = () => {
+            modal.querySelector('.modal').classList.remove('visible');
+            setTimeout(() => {
+                modal.classList.remove('is-open');
+                enableScroll();
+            }, 400);
+        }
+
+        mobileClose.addEventListener('swiped-down', function (e) {
+            closeModalMobileL2();
+        });
+
+        mobileClose.addEventListener('click', function (e) {
+            closeModalMobileL2();
+        });
+    }
+
+
+    mobileClose.addEventListener('click', () => {
+        onev.style.display = 'none';
+        form_c.style.display = 'none';
+        ch1.innerHTML = 'Payment Method';
+        document.querySelector('.pay_d').style.display = 'none'
+    });
+
+    //2
+    if (wst3.indexOf("CryptoBot") !== -1) {
+        openBtnL3.addEventListener('click', () => {
+            openModalDesktopL3();
+            openModalMobileL3();
+        });
+
+        modal.addEventListener('click', (e) => {
+            if (e.target == modal) {
+                closeModalL3();
+            }
+        });
+
+        closeBtn.addEventListener('click', () => {
+            closeModalL3();
+        });
+
+        const openModalDesktopL3 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+        }
+
+        const closeModalL3 = () => {
+            modal.classList.remove('is-open');
+            disableScroll();
+        }
+
+        const openModalMobileL3 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+            setTimeout(() => {
+                modal.querySelector('.modal').classList.add('visible');
+            }, 300);
+        }
+
+        const closeModalMobileL3 = () => {
+            modal.querySelector('.modal').classList.remove('visible');
+            setTimeout(() => {
+                modal.classList.remove('is-open');
+                enableScroll();
+            }, 400);
+        }
+
+        mobileClose.addEventListener('swiped-down', function (e) {
+            closeModalMobileL3();
+        });
+
+        mobileClose.addEventListener('click', function (e) {
+            closeModalMobileL3();
+        });
+
+
+        mobileClose.addEventListener('click', () => {
+            onev.style.display = 'none';
+            form_c.style.display = 'none';
+            ch1.innerHTML = 'Payment Method';
+            document.querySelector('.pay_d').style.display = 'none'
+        });
+    }
+
+    if (wst4.indexOf("CryptoBot") !== -1) {
+        openBtnL4.addEventListener('click', () => {
+            openModalDesktopL4();
+            openModalMobileL4();
+        });
+
+        modal.addEventListener('click', (e) => {
+            if (e.target == modal) {
+                closeModalL4();
+            }
+        });
+
+        closeBtn.addEventListener('click', () => {
+            closeModalL4();
+        });
+
+        const openModalDesktopL4 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+        }
+
+        const closeModalL4 = () => {
+            modal.classList.remove('is-open');
+            disableScroll();
+        }
+
+        const openModalMobileL4 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+            setTimeout(() => {
+                modal.querySelector('.modal').classList.add('visible');
+            }, 300);
+        }
+
+        const closeModalMobileL4 = () => {
+            modal.querySelector('.modal').classList.remove('visible');
+            setTimeout(() => {
+                modal.classList.remove('is-open');
+                enableScroll();
+            }, 400);
+        }
+
+        mobileClose.addEventListener('swiped-down', function (e) {
+            closeModalMobileL4();
+        });
+
+        mobileClose.addEventListener('click', function (e) {
+            closeModalMobileL4();
+        });
+
+
+        mobileClose.addEventListener('click', () => {
+            onev.style.display = 'none';
+            form_c.style.display = 'none';
+            ch1.innerHTML = 'Payment Method';
+            document.querySelector('.pay_d').style.display = 'none'
+        });
+    }
+
+    if (wst5.indexOf("CryptoBot") !== -1) {
+        openBtnL5.addEventListener('click', () => {
+            openModalDesktopL5();
+            openModalMobileL5();
+        });
+
+        modal.addEventListener('click', (e) => {
+            if (e.target == modal) {
+                closeModalL5();
+            }
+        });
+
+        closeBtn.addEventListener('click', () => {
+            closeModalL5();
+        });
+
+        const openModalDesktopL5 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+        }
+
+        const closeModalL5 = () => {
+            modal.classList.remove('is-open');
+            disableScroll();
+        }
+
+        const openModalMobileL5 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+            setTimeout(() => {
+                modal.querySelector('.modal').classList.add('visible');
+            }, 300);
+        }
+
+        const closeModalMobileL5 = () => {
+            modal.querySelector('.modal').classList.remove('visible');
+            setTimeout(() => {
+                modal.classList.remove('is-open');
+                enableScroll();
+            }, 400);
+        }
+
+        mobileClose.addEventListener('swiped-down', function (e) {
+            closeModalMobileL5();
+        });
+
+        mobileClose.addEventListener('click', function (e) {
+            closeModalMobileL5();
+        });
+
+
+        mobileClose.addEventListener('click', () => {
+            onev.style.display = 'none';
+            form_c.style.display = 'none';
+            ch1.innerHTML = 'Payment Method';
+            document.querySelector('.pay_d').style.display = 'none'
+        });
+    }
+
+    if (wst6.indexOf("CryptoBot") !== -1) {
+        openBtnL6.addEventListener('click', () => {
+            openModalDesktopL6();
+            openModalMobileL6();
+        });
+
+        modal.addEventListener('click', (e) => {
+            if (e.target == modal) {
+                closeModalL6();
+            }
+        });
+
+        closeBtn.addEventListener('click', () => {
+            closeModalL6();
+        });
+
+        const openModalDesktopL6 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+        }
+
+        const closeModalL6 = () => {
+            modal.classList.remove('is-open');
+            disableScroll();
+        }
+
+        const openModalMobileL6 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+            setTimeout(() => {
+                modal.querySelector('.modal').classList.add('visible');
+            }, 300);
+        }
+
+        const closeModalMobileL6 = () => {
+            modal.querySelector('.modal').classList.remove('visible');
+            setTimeout(() => {
+                modal.classList.remove('is-open');
+                enableScroll();
+            }, 400);
+        }
+
+        mobileClose.addEventListener('swiped-down', function (e) {
+            closeModalMobileL6();
+        });
+
+        mobileClose.addEventListener('click', function (e) {
+            closeModalMobileL6();
+        });
+
+
+        mobileClose.addEventListener('click', () => {
+            onev.style.display = 'none';
+            form_c.style.display = 'none';
+            ch1.innerHTML = 'Payment Method';
+            document.querySelector('.pay_d').style.display = 'none'
+        });
+    }
+
+    if (wst7.indexOf("CryptoBot") !== -1) {
+        openBtnL6.addEventListener('click', () => {
+            openModalDesktopL7();
+            openModalMobileL7();
+        });
+
+        modal.addEventListener('click', (e) => {
+            if (e.target == modal) {
+                closeModalL7();
+            }
+        });
+
+        closeBtn.addEventListener('click', () => {
+            closeModalL7();
+        });
+
+        const openModalDesktopL7 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+        }
+
+        const closeModalL7 = () => {
+            modal.classList.remove('is-open');
+            disableScroll();
+        }
+
+        const openModalMobileL7 = () => {
+            modal.classList.add('is-open');
+            disableScroll();
+            setTimeout(() => {
+                modal.querySelector('.modal').classList.add('visible');
+            }, 300);
+        }
+
+        const closeModalMobileL7 = () => {
+            modal.querySelector('.modal').classList.remove('visible');
+            setTimeout(() => {
+                modal.classList.remove('is-open');
+                enableScroll();
+            }, 400);
+        }
+
+        mobileClose.addEventListener('swiped-down', function (e) {
+            closeModalMobileL7();
+        });
+
+        mobileClose.addEventListener('click', function (e) {
+            closeModalMobileL7();
+        });
+
+
+        mobileClose.addEventListener('click', () => {
+            onev.style.display = 'none';
+            form_c.style.display = 'none';
+            ch1.innerHTML = 'Payment Method';
+            document.querySelector('.pay_d').style.display = 'none'
+        });
+    }
+
+
+
+    cryptobotb.addEventListener('click', () => {
+        onev.style.display = 'none';
+        ch1.innerHTML = "CryptoBot";
+        form_c.style.display = 'block'
+    })
+
+    document.querySelector('.acp').addEventListener('click', () => {
+        onev.style.display = 'block';
+        document.querySelector('.pay_d').style.display = 'none';
+        form_c.style.display = 'none';
+    })
+
+    mobileClose.addEventListener('click', () => {
+        document.querySelector('.pay_d').style.display = 'none';
+        form_c.style.display = 'none';
+    })
+
+    cp_amount.addEventListener('input', () => {
+        cp_amount = document.getElementById('cp_amount').value;
+        let ncpa = parseFloat(cp_amount);
+        if (ncpa > 1 && ncpa < 1000) {
+            console.log(ncpa);
+            cryptobot.style.background = '#3390EC';
+            cryptobot.setAttribute('type', 'submit');
+        }
+        else {
+            cryptobot.style.background = '#707579';
+            cryptobot.setAttribute('type', 'button');
+        }
+    })
+
+    if (wst1.indexOf("CryptoBot") !== -1) {
+        iwst1.src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        twst1.innerHTML = 'Receive';
+        pwst1.innerHTML = 'In proccess';
+        drow1.style.display = 'inline-block';
+
+    }
+
+    if (wst1.indexOf('1') !== -1) {
+        iwst1.src = 'https://tptradix.github.io/OpenWorksUI/img/reg.png';
+        twst1.innerHTML = 'Registration';
+        pwst1.innerHTML = 'Completed';
+        drow1.style.display = 'inline-block';
+    }
+
+    if (wst1.indexOf('work') !== -1) {
+        iwst1.src = 'https://tptradix.github.io/OpenWorksUI/img/work_case.png';
+        twst1.innerHTML = 'Deal';
+        pwst1.innerHTML = 'In process';
+        drow1.style.display = 'inline-block';
+    }
+
+    if (wst2.indexOf("CryptoBot") !== -1) {
+        iwst2.src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        twst2.innerHTML = 'Receive';
+        pwst2.innerHTML = 'In proccess';
+        drow2.style.display = 'inline-block';
+
+    }
+
+    if (wst2.indexOf('work') !== -1) {
+        iwst2.src = 'https://tptradix.github.io/OpenWorksUI/img/work_case.png';
+        twst2.innerHTML = 'Deal';
+        pwst2.innerHTML = 'In process';
+        drow2.style.display = 'inline-block';
+    }
+
+    if (wst3.indexOf("CryptoBot") !== -1) {
+        document.getElementById('iws3').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws3').innerHTML = 'Receive';
+        document.getElementById('pws3').innerHTML = 'In proccess';
+        document.getElementById('row3').style.display = 'inline-block';
+
+    }
+
+    if (wst3.indexOf('work') !== -1) {
+        document.getElementById('iws3').src = 'https://tptradix.github.io/OpenWorksUI/img/work_case.png';
+        document.getElementById('tws3').innerHTML = 'Deal';
+        document.getElementById('row3').style.display = 'In process';
+        document.getElementById('row3').style.display = 'inline-block';
+    }
+
+    if (wst4.indexOf("CryptoBot") !== -1) {
+        document.getElementById('iws4').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws4').innerHTML = 'Receive';
+        document.getElementById('pws4').innerHTML = 'In proccess';
+        document.getElementById('row4').style.display = 'inline-block';
+
+    }
+
+    if (wst4.indexOf('work') !== -1) {
+        document.getElementById('iws4').src = 'https://tptradix.github.io/OpenWorksUI/img/work_case.png';
+        document.getElementById('tws4').innerHTML = 'Deal';
+        document.getElementById('row4').style.display = 'In process';
+        document.getElementById('row4').style.display = 'inline-block';
+    }
+
+    if (wst5.indexOf('work') !== -1) {
+        document.getElementById('iws5').src = 'https://tptradix.github.io/OpenWorksUI/img/work_case.png';
+        document.getElementById('tws5').innerHTML = 'Deal';
+        document.getElementById('row5').style.display = 'In process';
+        document.getElementById('row5').style.display = 'inline-block';
+    }
+
+    if (wst5.indexOf("CryptoBot") !== -1) {
+        document.getElementById('iws5').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws5').innerHTML = 'Receive';
+        document.getElementById('pws5').innerHTML = 'In proccess';
+        document.getElementById('row5').style.display = 'inline-block';
+
+    }
+
+    if (wst6.indexOf("CryptoBot") !== -1) {
+        document.getElementById('iws6').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws6').innerHTML = 'Receive';
+        document.getElementById('pws6').innerHTML = 'In proccess';
+        document.getElementById('row6').style.display = 'inline-block';
+
+    }
+
+    if (wst6.indexOf('work') !== -1) {
+        document.getElementById('iws6').src = 'https://tptradix.github.io/OpenWorksUI/img/work_case.png';
+        document.getElementById('tws6').innerHTML = 'Deal';
+        document.getElementById('row6').style.display = 'In process';
+        document.getElementById('row6').style.display = 'inline-block';
+    }
+
+    if (wst7.indexOf("CryptoBot") !== -1) {
+        document.getElementById('iws7').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws7').innerHTML = 'Receive';
+        document.getElementById('pws7').innerHTML = 'In proccess';
+        document.getElementById('row7').style.display = 'inline-block';
+
+    }
+
+    if (wst8.indexOf('work') !== -1) {
+        document.getElementById('iws8').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws8').innerHTML = 'Receive';
+        document.getElementById('pws8').innerHTML = 'In proccess';
+        document.getElementById('row8').style.display = 'inline-block';
+    }
+
+    if (wst8.indexOf("CryptoBot") !== -1) {
+        document.getElementById('iws8').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws8').innerHTML = 'Receive';
+        document.getElementById('pws8').innerHTML = 'In proccess';
+        document.getElementById('row8').style.display = 'inline-block';
+
+    }
+
+    if (wst9.indexOf("CryptoBot") !== -1) {
+        document.getElementById('iws9').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws9').innerHTML = 'Receive';
+        document.getElementById('pws9').innerHTML = 'In proccess';
+        document.getElementById('row9').style.display = 'inline-block';
+
+    }
+
+    if (wst9.indexOf('work') !== -1) {
+        document.getElementById('iws9').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws9').innerHTML = 'Receive';
+        document.getElementById('pws9').innerHTML = 'In proccess';
+        document.getElementById('row9').style.display = 'inline-block';
+    }
+
+
+    if (wst10.indexOf("CryptoBot") !== -1) {
+        document.getElementById('iws10').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws10').innerHTML = 'Receive';
+        document.getElementById('pws10').innerHTML = 'In proccess';
+        document.getElementById('row10').style.display = 'inline-block';
+
+    }
+
+    if (wst10.indexOf('work') !== -1) {
+        document.getElementById('iws10').src = 'https://tptradix.github.io/OpenWorksUI/img/cash.png';
+        document.getElementById('tws10').innerHTML = 'Receive';
+        document.getElementById('pws10').innerHTML = 'In proccess';
+        document.getElementById('row10').style.display = 'inline-block';
+    }
+
+
+    if (wst1.indexOf("CryptoBot") !== -1) {
+        iwst1.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT1').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_1').textContent;
+
+        });
+    }
+
+    if (wst2.indexOf("CryptoBot") !== -1) {
+        iwst2.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT2').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_2').textContent.split(' ').join('');
+            console.log(document.getElementById('del_f').value)
+        });
+    }
+
+    if (wst3.indexOf("CryptoBot") !== -1) {
+        iwst3.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT3').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_3').textContent.split(' ').join('');
+            console.log(document.getElementById('del_f').value)
+        });
+    }
+
+    if (wst4.indexOf("CryptoBot") !== -1) {
+        iwst4.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT4').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_4').textContent.split(' ').join('');
+            console.log(document.getElementById('del_f').value)
+        });
+    }
+
+    if (wst5.indexOf("CryptoBot") !== -1) {
+        iwst5.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT5').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_5').textContent.split(' ').join('');
+            console.log(document.getElementById('del_f').value)
+        });
+    }
+
+    if (wst6.indexOf("CryptoBot") !== -1) {
+        iwst6.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT6').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_6').textContent.split(' ').join('');
+            console.log(document.getElementById('del_f').value)
+        });
+    }
+
+    if (wst7.indexOf("CryptoBot") !== -1) {
+        iwst7.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT7').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_7').textContent.split(' ').join('');
+            console.log(document.getElementById('del_f').value)
+        });
+    }
+
+    if (wst8.indexOf("CryptoBot") !== -1) {
+        iwst8.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT8').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_8').textContent.split(' ').join('');
+            console.log(document.getElementById('del_f').value)
+        });
+    }
+
+    if (wst9.indexOf("CryptoBot") !== -1) {
+        iwst9.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT9').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_9').textContent.split(' ').join('');
+            console.log(document.getElementById('del_f').value)
+        });
+    }
+
+    if (wst10.indexOf("CryptoBot") !== -1) {
+        iwst10.addEventListener('click', () => {
+            document.querySelector('.pay_d').style.display = 'grid';
+            form_c.style.display = 'none';
+            ch1.innerHTML = "Receive";
+            document.querySelector('.acpt_i').href = document.getElementById('infT10').textContent;
+            document.getElementById('del_f').value = document.querySelector('.at_id_10').textContent.split(' ').join('');
+            console.log(document.getElementById('del_f').value)
+        });
+    }
+
+    document.getElementById('re').addEventListener('click', () => {
+        window.location.reload();
+    });
+
+    document.getElementById('market').addEventListener('click', () => {
+        document.getElementById('show_w_1').style.display = 'inline';
+        setTimeout(function() {
+            document.getElementById('show_w_1').style.display = 'none';
+        }, 1000);
+    });
+
+    document.getElementById('tprf').addEventListener('click', () => {
+        const to_opacity = document.querySelector('.body_st');
+        let opacity = 1;
+        const timer = setInterval(() => {
+            if (opacity <= 0) {
+                clearInterval(timer);
+                to_opacity.style.display = 'none';
+                show()
+            } else {
+                opacity -= 0.2;
+                to_opacity.style.opacity = opacity;
+            }
+            function show() {
+                setInterval(() => {
+                    document.querySelector('.body_st').style.opacity = 1;
+                    document.querySelector('.body_st').style.display = 'block';
+                }, 1000)
+            }
+        }, 10)
+    });
+}();
