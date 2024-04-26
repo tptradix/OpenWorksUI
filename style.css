@@ -203,10 +203,6 @@ input:focus {
     height: 100vh;
 }
 
-.main {
-    display: none;
-}
-
 .mainAct {
     list-style: none;
     margin: 0 auto;
