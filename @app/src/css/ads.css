@@ -1,0 +1,226 @@
+body {
+    margin: 0;
+    padding: 0;
+    opacity: 0;      
+    animation: fadeIn ease-in 1;
+    animation-fill-mode: forwards;
+    animation-duration: 0.2s;
+  
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+
+* {
+    box-sizing: border-box;
+}
+
+.step1 {
+    background-color: var(--tg-theme-bg-color);
+    box-shadow: 0px 1.5px 0px 0px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 100vw;
+}
+
+.step2 {
+    background-color: var(--tg-theme-bg-color);
+    box-shadow: 0px 1.5px 0px 0px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 100vw;
+    margin-top: 15px;
+}
+
+h1 {
+    font-family: Roboto, system-ui, sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+    color: var(--tg-theme-text-color);
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, system-ui, sans-serif;
+    font-weight: 400;
+    color: var(--tg-theme-text-color);
+}
+
+.scroll_opt {
+    display: flex;
+    align-items: center;
+}
+
+.vacancy {
+    width: 80px;
+    font-family: Ubuntu;
+    border: 0;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+    margin: 5px;
+}
+
+.vacancy:focus {
+    outline: none;
+}
+
+.select {
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    width: 75px;
+    height: 35px;
+    border-radius: 5px;
+    font-family: Roboto, system-ui, sans-serif;
+    text-align: right;
+    font-size: 15px;
+    font-weight: 500;
+    color: #767676;
+    
+}
+
+.s1 {
+    z-index: 5;
+}
+
+.s2 {
+    z-index: 4;
+}
+
+.s3 {
+    z-index: 3;
+}
+
+.s4 {
+    z-index: 2;
+}
+
+.rew {
+    border: 0;
+    left: 0;
+    position: relative;
+    border-bottom: 1px solid #64636b;
+    text-align: left;
+    font-family: Roboto, system-ui, sans-serif;
+    border-radius: 0;
+    margin-top: 10px;
+    width: 100%;
+    font-size: 15px;
+    padding: 5px;
+    padding-left: 0px;
+    background: transparent;
+    color: var(--tg-theme-text-color);
+}
+
+.rew:focus {
+    outline: none;
+    border-bottom: 1.5px solid #3390EC;
+}
+
+span {
+    font-size: 13px;
+    font-family: Roboto, system-ui, sans-serif;
+    color: var(--tg-theme-text-color);
+}
+
+button {
+    background: #767676;
+    width: 100vw;
+    height: 40px;
+    border: 0;
+    color: #FFFFFF;
+    font-family: Roboto, system-ui, sans-serif;
+    font-size: 19px;
+    position: fixed;
+    bottom: 0;
+}
+
+.select {
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    width: 75px;
+    height: 35px;
+    border-radius: 0px;
+    font-family: Roboto, system-ui, sans-serif;
+    text-align: right;
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--tg-theme-hint-color);
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    
+}
+  
+.option {
+    padding: 8px;
+    display: grid;
+    align-items: center;
+    background-color: var(--tg-theme-secondary-bg-color);
+    position: absolute;
+    top: 0;
+    width: 100%;
+    pointer-events: none;
+    border-radius: 0px;
+    text-align: left;
+    border-bottom: 1.5px solid var(--tg-theme-subtitle-text-color);
+
+}
+
+.option:hover {
+    background: var(--tg-theme-secondary-bg-color);
+  }
+  
+  .select:focus .option {
+    position:relative;
+    pointer-events:all;
+    border-bottom: 1px solid #c9c3c3;
+    opacity: 0;
+    animation: fadeIn ease-in 1;
+    animation-fill-mode: forwards;
+    animation-duration: 0.5s;
+    
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+  
+input {
+    position:absolute;
+    left:-99999px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+  
+input:checked + label {
+    order: 1;
+    z-index:2;
+    background: var(--tg-theme-bg-color);
+    border-top:none;
+    position:relative;
+    text-align: center;
+    border-radius: 2px;
+    border: 1.5px solid var(--tg-theme-secondary-bg-color);
+    color: #3390EC;
+}
