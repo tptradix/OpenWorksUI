@@ -1,0 +1,124 @@
+.content {
+    padding: 100px;
+  }
+  
+  
+  .modals {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0, 0.6);
+    display: none;
+  }
+  
+  .modal {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    padding: 0px;
+    border-radius: 10px;
+    background: var(--tg-theme-bg-color);  
+  }
+  
+  .modal__btn {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    width: 15px;
+    height: 15px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: transparent;
+  }
+  
+  .form {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+  }
+  
+  .form__input {
+    height: 40px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .form__btn {
+    height: 40px;
+    border: 0;
+    background-color: #3390ec;
+    border-radius: 20px;
+    color: #FFFFFF;
+  
+  }
+  
+  .mobile-close {
+    display: none;
+  }
+  
+  .is-open {
+    display: block;
+  }
+  
+  @media (max-width: 586px) {
+    .modal {
+      padding: 50px 0px;
+      top: auto;
+      bottom: 0;
+      left: 0;
+      transform: none;
+      transform: translateY(170vh);
+      width: 100%;
+      height: 75vh;
+      border-top-right-radius: 10px;
+      border-top-left-radius: 10px;
+      transition: transform 0.3s;
+       border-bottom-right-radius: 0px;
+      border-bottom-left-radius: 0px;
+    }
+  
+    .visible {
+      transform: translateY(0);
+      transition: transform 0.3s;
+    }
+  
+    .modal__btn {
+      display: none;
+    }
+  
+  
+  
+    .mobile-close {
+      border: 0;
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 50px;
+      display: block;
+      background-color: transparent;
+    }
+  
+    .mobile-close::before {
+      content: "";
+      position: absolute;
+      left: 50%;
+      top: 30%;
+      transform: translate(-50%, -50%);
+      width: 50px;
+      height: 2px;
+      background-color: #bfbfbf;
+    }
+  
+    .is-open {
+      display: block;
+    }
+  }
