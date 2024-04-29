@@ -1,0 +1,254 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--tg-theme-secondary-bg-color);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+i {
+    font-family: Ubuntu;
+    font-style: normal;
+    color: #707579;
+}
+
+.scroll_opt {
+    display: flex;
+    background: #F1F5FA;
+    height: 75px;
+    padding: 3px;
+    align-items: center;
+}
+
+.vacancy {
+    width: 80px;
+    font-family: Ubuntu;
+    border: 0;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+    margin: 5px;
+}
+
+.vacancy:focus {
+    outline: none;
+}
+
+
+.head_ad {
+    display: flex;
+    justify-content: space-between;
+    width: 95vw;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom: 0.5px solid #a8aeb2;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+
+.msg_list {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.fill {
+    display: grid;
+    margin-bottom: 10px;
+    min-width: 80px;
+    width: 80vw;
+    background-color: var(--tg-theme-bg-color);
+    border-radius: 0px;
+    padding: 0;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Roboto, system-ui, sans-serif;
+    color: var(--tg-theme-text-color);
+    text-align: center;
+}
+
+.tab_1 {
+    font-family: Roboto, system-ui, sans-serif;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.tab_2 {
+    font-family: Roboto, system-ui, sans-serif;
+    font-size: 13px;
+    color: #707579;
+    margin-bottom: 0px;
+}
+
+.like {
+    display: flex;
+    background: #d2d2d2;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    margin: 5px;
+}
+
+.share {
+    display: flex;
+    background: #df3f40;
+    border-radius: 5px;
+    width: 65px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    margin-right: 0px;
+}
+
+.share1 {
+    display: flex;
+    background: #58C3F5;
+    border-radius: 5px;
+    width: 65px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    margin-right: 0px;
+}
+
+.main_v {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+.person {
+    font-family: Roboto, system-ui, sans-serif;
+    font-size: 15px;
+    padding-left: 5px;
+    font-weight: 500;
+}
+
+.rank {
+    font-size: 14px;
+    font-family: Roboto, system-ui, sans-serif;
+}
+
+.inf_as {
+    font-family:Ubuntu;
+    color: #707579;
+    font-size: 14px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.pos_as {
+    font-family:Ubuntu;
+    color: #000000;
+    font-size: 14px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+button {
+    width: 100%;
+    border: 0;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-family: Ubuntu;
+    font-size: 20px;
+    border-radius: 50px;
+
+}
+
+.ld_wp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.main {
+    height: 100vh;
+}
+
+
+.acpt_w {
+    font-family: Ubuntu;
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+    outline: none;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 22px;
+    font-family: Roboto, system-ui, sans-serif;
+    text-align: center;
+}
+
+.isN {
+    display: none;
+    height: 80vh;
+    align-items: center;
+
+}
+
+.isvn {
+    font-size: 15px;
+    font-family: Roboto, system-ui, sans-serif;
+    text-align: center;
+    font-weight: 500;
+    color: var(--tg-theme-text-color);
+    
+}
+
+.type {
+    font-size: 12px;
+    font-family: Roboto, system-ui, sans-serif;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 3px;
+    padding-left: 5px;
+}
+
+.type_n {
+    display: flex;
+    background-color: var(--tg-theme-bg-color);
+    padding: 5px;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    height: 8vh;
+    margin-top: 5px
+    align-items: center;
+    justify-content: center;
+}
+
+.data_in {
+    font-size: 16px;
+    font-family: Roboto, system-ui, sans-serif;
+    width: 95%;
+    height: 30px;
+    border: 0;
+    background: transparent;
+    color: var(--tg-theme-text-color);
+
+}
+
+.head {
+    display: flex;
+    background-color:var(--tg-theme-bg-color);
+    height: 8vh;
+    top: 0;
+    position: absolute;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
