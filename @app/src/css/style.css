@@ -214,7 +214,7 @@ input:focus {
 }
 
 .mainAct li {
-    margin-top: 10px;
+    margin-bottom: 10px;
     padding: 10px;
     width: 90%;
     display: inline-block;
