@@ -121,7 +121,7 @@ button {
 
 .scroll_event_app {
     background-color: var(--tg-theme-bg-color);
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     height: auto;
 }
 
