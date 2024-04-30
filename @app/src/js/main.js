@@ -1,1 +1,181 @@
-(function(_0x4b99e3,_0x52c6d7){const _0x310a95=_0x54e3,_0x2c79e3=_0x4b99e3();while(!![]){try{const _0x556e6=-parseInt(_0x310a95(0x11b))/0x1+-parseInt(_0x310a95(0x103))/0x2+parseInt(_0x310a95(0x113))/0x3*(-parseInt(_0x310a95(0x12d))/0x4)+parseInt(_0x310a95(0x138))/0x5*(-parseInt(_0x310a95(0x104))/0x6)+parseInt(_0x310a95(0x124))/0x7*(-parseInt(_0x310a95(0x135))/0x8)+parseInt(_0x310a95(0x136))/0x9*(-parseInt(_0x310a95(0x115))/0xa)+parseInt(_0x310a95(0x132))/0xb*(parseInt(_0x310a95(0xe8))/0xc);if(_0x556e6===_0x52c6d7)break;else _0x2c79e3['push'](_0x2c79e3['shift']());}catch(_0x1bf36f){_0x2c79e3['push'](_0x2c79e3['shift']());}}}(_0x2f35,0x85c96),$(function(){const _0x16b5aa=_0x54e3,_0x430337=$(_0x16b5aa(0x11d)),_0x51e055=$(_0x16b5aa(0xe6)),_0x3270af=$(_0x16b5aa(0x112)),_0x54671c=$(_0x16b5aa(0xf7)),_0x287c05=$(_0x16b5aa(0xe7)),_0x37e1a0=$(_0x16b5aa(0xfc)),_0xa47f8c=$(_0x16b5aa(0x122)),_0xbe349f=$(_0x16b5aa(0x134)),_0x46f573=$(_0x16b5aa(0x126)),_0x4965b1=$('[id^=iws]'),_0x28897d=$(_0x16b5aa(0xf5)),_0x4fded7=$(_0x16b5aa(0x111)),_0x4a9acc=$(_0x16b5aa(0x12f)),_0x185207=()=>{const _0x2691d6=_0x16b5aa,_0x5502f6=window['scrollY'];$(_0x2691d6(0x110))[_0x2691d6(0xf3)](_0x2691d6(0xf2))['data'](_0x2691d6(0x12c),_0x5502f6)['css'](_0x2691d6(0x101),-_0x5502f6+'px');},_0x61d0ac=()=>{const _0x42f5ab=_0x16b5aa,_0x478658=parseInt($(_0x42f5ab(0x110))['data'](_0x42f5ab(0x12c)),0xa);$('body')['css'](_0x42f5ab(0x101),_0x42f5ab(0x10c))[_0x42f5ab(0x12a)](_0x42f5ab(0xf2)),window[_0x42f5ab(0x11c)]({'top':_0x478658,'left':0x0}),$(_0x42f5ab(0x110))['removeData'](_0x42f5ab(0x12c));},_0x14c026=()=>{const _0x4a6b45=_0x16b5aa;_0x430337[_0x4a6b45(0xf3)](_0x4a6b45(0x11e)),_0x185207();},_0xab75cc=()=>{const _0x16b18c=_0x16b5aa;_0x430337[_0x16b18c(0x12a)]('is-open'),_0x61d0ac();},_0x5b0c02=()=>{const _0x551d26=_0x16b5aa;_0x430337['addClass'](_0x551d26(0x11e)),_0x185207(),setTimeout(()=>{const _0x854f94=_0x551d26;_0x430337['find']('.modal')[_0x854f94(0xf3)](_0x854f94(0x11a));},0x64);},_0x2c05e8=()=>{const _0x2900a0=_0x16b5aa;_0x430337[_0x2900a0(0x107)](_0x2900a0(0x123))[_0x2900a0(0x12a)](_0x2900a0(0x11a)),setTimeout(()=>{const _0x37b9e0=_0x2900a0;_0x430337[_0x37b9e0(0x12a)](_0x37b9e0(0x11e)),_0x61d0ac();},0x12c);},_0x33db31=()=>{_0x14c026(),_0x5b0c02();};_0xa47f8c['on'](_0x16b5aa(0x10d),()=>{_0x14c026(),_0x5b0c02();}),_0xbe349f[_0x16b5aa(0x10f)](function(_0x58150d){const _0x1c96b2=_0x16b5aa;$(this)['on'](_0x1c96b2(0x10d),()=>{_0x33db31(_0x58150d);});}),_0x430337['on'](_0x16b5aa(0x10d),_0x563ea2=>{const _0x3b5238=_0x16b5aa;$(_0x563ea2[_0x3b5238(0x11f)])[_0x3b5238(0xeb)]('modals')&&_0xab75cc();}),_0x51e055['on']('click',()=>{const _0x186f37=_0x16b5aa;_0xab75cc(),$(_0x186f37(0x105))['hide'](),$('.one_v_l')[_0x186f37(0xf8)]();}),_0x3270af['on'](_0x16b5aa(0xf9),()=>{_0x2c05e8();}),_0x54671c['on'](_0x16b5aa(0x10d),()=>{const _0x19896a=_0x16b5aa;$(_0x19896a(0x109))[_0x19896a(0xf8)](),$('#i_pc')[_0x19896a(0x121)](_0x19896a(0x120)),$(_0x19896a(0x105))[_0x19896a(0x117)]();}),$('.acp')['on'](_0x16b5aa(0x10d),()=>{const _0x4c1e76=_0x16b5aa;$(_0x4c1e76(0x109))['show'](),$(_0x4c1e76(0xfa))[_0x4c1e76(0xf8)](),$(_0x4c1e76(0x105))[_0x4c1e76(0xf8)]();}),_0x3270af['on']('click',()=>{const _0x6ae629=_0x16b5aa;$(_0x6ae629(0xfa))[_0x6ae629(0xf8)](),$(_0x6ae629(0x105))[_0x6ae629(0xf8)]();}),_0x287c05['on'](_0x16b5aa(0x127),()=>{const _0x47d2d4=_0x16b5aa,_0xc48ae8=parseFloat(_0x287c05[_0x47d2d4(0x131)]());_0xc48ae8>0x1&&_0xc48ae8<0x3e8?_0x37e1a0[_0x47d2d4(0x118)]('background',_0x47d2d4(0x125))[_0x47d2d4(0xfb)](_0x47d2d4(0x116),_0x47d2d4(0x114)):_0x37e1a0[_0x47d2d4(0x118)](_0x47d2d4(0x10b),'#707579')['attr'](_0x47d2d4(0x116),'button');}),_0xbe349f[_0x16b5aa(0x10f)](function(_0x5350d4){const _0x5b36c6=_0x16b5aa,_0x366888=_0x46f573['eq'](_0x5350d4)[_0x5b36c6(0xf4)](),_0x1219a4=_0x4965b1['eq'](_0x5350d4),_0x58d829=_0x28897d['eq'](_0x5350d4),_0x4794a7=_0x4fded7['eq'](_0x5350d4),_0x221623=_0x4a9acc['eq'](_0x5350d4);if(_0x366888[_0x5b36c6(0xe5)](_0x5b36c6(0x120))!==-0x1)_0x1219a4[_0x5b36c6(0xfb)](_0x5b36c6(0x130),_0x5b36c6(0x108)),_0x58d829[_0x5b36c6(0x121)](_0x5b36c6(0x106)),_0x4794a7[_0x5b36c6(0x121)](_0x5b36c6(0xe9)),_0x221623[_0x5b36c6(0x118)](_0x5b36c6(0x128),_0x5b36c6(0x133));else _0x366888[_0x5b36c6(0xe5)](_0x5b36c6(0xf0))!==-0x1?(_0x1219a4[_0x5b36c6(0xfb)](_0x5b36c6(0x130),_0x5b36c6(0x129)),_0x58d829['html'](_0x5b36c6(0xed)),_0x4794a7[_0x5b36c6(0x121)](_0x5b36c6(0xe9)),_0x221623[_0x5b36c6(0x118)]('display',_0x5b36c6(0x133))):(_0x1219a4[_0x5b36c6(0xfb)](_0x5b36c6(0x130),_0x5b36c6(0x100)),_0x58d829[_0x5b36c6(0x121)](_0x5b36c6(0xfd)),_0x4794a7[_0x5b36c6(0x121)](_0x5b36c6(0x137)),_0x221623[_0x5b36c6(0x118)](_0x5b36c6(0x128),'inline-block'));}),_0x4965b1[_0x16b5aa(0x10f)](function(_0xc7e3b9){const _0x3290c7=_0x16b5aa;$(this)['on'](_0x3290c7(0x10d),()=>{const _0x5e2026=_0x3290c7,_0x5f472a=_0x46f573['eq'](_0xc7e3b9)[_0x5e2026(0xf4)]();$(_0x5e2026(0x105))[_0x5e2026(0xf8)](),$('.one_v_l')['hide'](),$(_0x5e2026(0xfa))['css'](_0x5e2026(0x128),_0x5e2026(0xf6)),$(_0x5e2026(0x10a))['html'](_0x5e2026(0x106)),$(_0x5e2026(0xef))[_0x5e2026(0xfb)]('href',_0x5f472a),$(_0x5e2026(0x12e))[_0x5e2026(0x131)]($(_0x5e2026(0xff)+(_0xc7e3b9+0x1))[_0x5e2026(0xf4)]()[_0x5e2026(0xea)]('\x20')['join'](''));});}),$(_0x16b5aa(0x102))['on'](_0x16b5aa(0x10d),()=>{const _0x457a2c=_0x16b5aa;window[_0x457a2c(0x10e)][_0x457a2c(0xfe)]();}),document[_0x16b5aa(0x110)][_0x16b5aa(0x119)]=()=>{return![];},$((function(){const _0x54428b=_0x16b5aa;$(window)['on'](_0x54428b(0xf1),function(){const _0x1b7c8d=_0x54428b;var _0x4668de=window[_0x1b7c8d(0x10e)]['hash'];$(_0x1b7c8d(0xee))[_0x1b7c8d(0xf8)](),$(_0x1b7c8d(0x12b))[_0x1b7c8d(0xf8)](),_0xa5a910(_0x4668de);});function _0xa5a910(_0x12996a){const _0x28106a=_0x54428b;switch(_0x12996a){case _0x28106a(0xec):$(_0x28106a(0xee))[_0x28106a(0xf8)](),$(_0x28106a(0x12b))[_0x28106a(0x117)]();break;case _0x28106a(0xee):$('#profiles')[_0x28106a(0xf8)](),$(_0x28106a(0xee))[_0x28106a(0x117)]();break;default:$(_0x28106a(0x12b))[_0x28106a(0xf8)](),$(_0x28106a(0xee))[_0x28106a(0x117)]();}}_0xa5a910(window['location']['hash']);}()));}));function _0x54e3(_0x1d3886,_0x573a5c){const _0x2f35ec=_0x2f35();return _0x54e3=function(_0x54e362,_0x31e343){_0x54e362=_0x54e362-0xe5;let _0x4df88a=_0x2f35ec[_0x54e362];return _0x4df88a;},_0x54e3(_0x1d3886,_0x573a5c);}function _0x2f35(){const _0x10c36f=['submit','50290WaROQF','type','show','css','onselectstart','visible','987006ZqUhFA','scroll','.modals','is-open','target','CryptoBot','html','.acp','.modal','3559178aSgoqg','#3390EC','[id^=infT]','input','display','https://tptradix.github.io/OpenWorksUI/img/work_case.png','removeClass','#profiles','position','43104CiADrD','#del_f','[id^=row]','src','val','353793ocHCYk','inline-block','[id^=iws]','8GiuYLk','1692XCNvkV','Completed','32515tpcLzJ','indexOf','.modal__btn','#cp_amount','1644ZScUTZ','In\x20process','split','hasClass','#profile','Deal','#app','.acpt_i','work','hashchange','disable-scroll','addClass','text','[id^=tws]','grid','#cp','hide','swiped-down\x20click','.pay_d','attr','.cp_pay','Registration','reload','.at_id_','https://tptradix.github.io/OpenWorksUI/img/reg.png','top','#re','918544EBEwNi','546zjsLuB','.c_form','Receive','find','https://tptradix.github.io/OpenWorksUI/img/cash.png','.one_v_l','#i_pc','background','auto','click','location','each','body','[id^=pws]','.mobile-close','102DLYeus'];_0x2f35=function(){return _0x10c36f;};return _0x2f35();}
+$(function() {
+    const modal = $('.modals');
+    const closeBtn = $('.modal__btn');
+    const mobileClose = $('.mobile-close');
+    const cryptobotb = $('#cp');
+    const cp_amount = $('#cp_amount');
+    const cryptobot = $('.cp_pay');
+    const openBtn = $('.acp');
+    const openBtns = $('[id^=iws]');
+    const wsts = $('[id^=infT]');
+    const iws = $('[id^=iws]');
+    const tws = $('[id^=tws]');
+    const pws = $('[id^=pws]');
+    const drows = $('[id^=row]');
+
+    const disableScroll = () => {
+        const pagePosition = window.scrollY;
+        $('body').addClass('disable-scroll').data('position', pagePosition).css('top', -pagePosition + 'px');
+    };
+
+    const enableScroll = () => {
+        const pagePosition = parseInt($('body').data('position'), 10);
+        $('body').css('top', 'auto').removeClass('disable-scroll');
+        window.scroll({ top: pagePosition, left: 0 });
+        $('body').removeData('position');
+    };
+
+    const openModalDesktop = () => {
+        modal.addClass('is-open');
+        disableScroll();
+    };
+
+    const closeModal = () => {
+        modal.removeClass('is-open');
+        enableScroll();
+    };
+
+    const openModalMobile = () => {
+        modal.addClass('is-open');
+        disableScroll();
+        setTimeout(() => {
+            modal.find('.modal').addClass('visible');
+        }, 100);
+    };
+
+    const closeModalMobile = () => {
+        modal.find('.modal').removeClass('visible');
+        setTimeout(() => {
+            modal.removeClass('is-open');
+            enableScroll();
+        }, 300);
+    };
+
+    const handleBtnClick = () => {
+        openModalDesktop();
+        openModalMobile();
+    };
+
+    openBtn.on('click', () => {
+        openModalDesktop();
+        openModalMobile();
+    });
+
+    openBtns.each(function(index) {
+        $(this).on('click', () => {
+            handleBtnClick(index);
+        });
+    });
+
+    modal.on('click', (e) => {
+        if ($(e.target).hasClass('modals')) {
+            closeModal();
+        }
+    });
+
+    closeBtn.on('click', () => {
+        closeModal();
+      	$('.c_form').hide()
+      	$('.one_v_l').hide();
+    });
+
+    mobileClose.on('swiped-down click', () => {
+        closeModalMobile();
+    });
+
+    cryptobotb.on('click', () => {
+        $('.one_v_l').hide();
+        $('#i_pc').html("CryptoBot");
+        $('.c_form').show();
+    });
+
+    $('.acp').on('click', () => {
+        $('.one_v_l').show();
+        $('.pay_d').hide();
+        $('.c_form').hide();
+    });
+
+    mobileClose.on('click', () => {
+        $('.pay_d').hide();
+        $('.c_form').hide();
+    });
+
+    cp_amount.on('input', () => {
+        const ncpa = parseFloat(cp_amount.val());
+        if (ncpa > 1 && ncpa < 1000) {
+            cryptobot.css('background', '#3390EC').attr('type', 'submit');
+        } else {
+            cryptobot.css('background', '#707579').attr('type', 'button');
+        }
+    });
+
+    openBtns.each(function(index) {
+        const wst = wsts.eq(index).text();
+        const iwst = iws.eq(index);
+        const twst = tws.eq(index);
+        const pwst = pws.eq(index);
+        const drow = drows.eq(index);
+        if (wst.indexOf("CryptoBot") !== -1) {
+            iwst.attr('src', 'https://tptradix.github.io/OpenWorksUI/img/cash.png');
+            twst.html('Receive');
+            pwst.html('In process');
+            drow.css('display', 'inline-block');
+        } else if (wst.indexOf("work") !== -1) {
+            iwst.attr('src', 'https://tptradix.github.io/OpenWorksUI/img/work_case.png');
+            twst.html('Deal');
+            pwst.html('In process');
+            drow.css('display', 'inline-block');
+        } else {
+            iwst.attr('src', 'https://tptradix.github.io/OpenWorksUI/img/reg.png');
+            twst.html('Registration');
+            pwst.html('Completed');
+            drow.css('display', 'inline-block');
+        }
+    });
+
+    iws.each(function(index) {
+        $(this).on('click', () => {
+            const wst = wsts.eq(index).text();
+          	$('.c_form').hide()
+          	$('.one_v_l').hide();
+            $('.pay_d').css('display', 'grid');
+            $('#i_pc').html("Receive");
+            $('.acpt_i').attr('href', wst);
+            $('#del_f').val($('.at_id_' + (index + 1)).text().split(' ').join(''));
+        });
+    });
+
+    $('#re').on('click', () => {
+        window.location.reload();
+    });
+
+    document.body.onselectstart = () => { return false; }
+
+    $(function() {  
+    $(window).on('hashchange', function() {
+        var hash = window.location.hash;
+        $('#app').hide();
+        $('#profiles').hide();
+        route(hash);
+    });
+    
+    function route(hash) {
+        switch(hash) {
+            case '#profile':
+                $('#app').hide();
+                $('#profiles').show();
+                break;
+            case '#app':
+                $('#profiles').hide();
+                $('#app').show();
+                break;
+            default:
+                $('#profiles').hide();
+                $('#app').show();
+        }
+    }
+
+    route(window.location.hash);
+    }());
+
+});
