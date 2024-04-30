@@ -136,12 +136,14 @@ $(function() {
     iws.each(function(index) {
         $(this).on('click', () => {
             const wst = wsts.eq(index).text();
-          	$('.c_form').hide()
-          	$('.one_v_l').hide();
-            $('.pay_d').css('display', 'grid');
-            $('#i_pc').html("Receive");
-            $('.acpt_i').attr('href', wst);
-            $('#del_f').val($('.at_id_' + (index + 1)).text().split(' ').join(''));
+          	if (wst.indexOf("CryptoBot") !== -1) {
+              $('.c_form').hide();
+              $('.one_v_l').hide();
+              $('.pay_d').css('display', 'grid');
+              $('#i_pc').html("Receive");
+              $('.acpt_i').attr('href', wst);
+              $('#del_f').val($('.at_id_' + (index + 1)).text().split(' ').join(''));
+            }
         });
     });
 
