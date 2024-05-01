@@ -167,10 +167,15 @@ $(function() {
             case '#profile':
                 $('#app').hide();
                 $('#profiles').show();
+            	window.Telegram.WebApp.BackButton.show()
+            	Telegram.WebApp.onEvent('backButtonClicked', () => {
+                	window.location.hash = '#app'
+                })
                 break;
             case '#app':
                 $('#profiles').hide();
                 $('#app').show();
+            	window.Telegram.WebApp.BackButton.hide()
                 break;
             default:
                 $('#profiles').hide();
