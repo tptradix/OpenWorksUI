@@ -140,7 +140,7 @@ $(function() {
               $('.pay_d').css('display', 'grid');
               $('#i_pc').html("Receive");
               $('.acpt_i').attr('href', wst);
-              $('#del_f').val($('.at_id_' + (index)).text().split(' ').join(''));
+              console.log($('#del_f').val($('.at_id_' + (index)).text().split(' ').join('')));
             }
         });
     });
@@ -179,4 +179,3 @@ $(function() {
     }());
 
 });
-
