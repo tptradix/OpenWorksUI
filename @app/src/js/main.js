@@ -129,9 +129,8 @@ $(function() {
             twst.html('Registration');
             pwst.html('Completed');
             drow.css('display', 'inline-block');
-          	console.log($("#at_id_" + (index)).text().length)
-          	if ($("#at_id_" + (index)).text().length < 2 ) {
-            	$("#at_id_" + (index)).hide()
+          	if ($("#at_id_" + (index)).text().length == 0 ) {
+            	$("#at_id_" + (index)).css('display', 'none')
             }
         }
     });
@@ -191,4 +190,3 @@ $(function() {
     }());
 
 });
-
