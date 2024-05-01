@@ -75,8 +75,6 @@ $(function() {
 
     closeBtn.on('click', () => {
         closeModal();
-      	$('.c_form').hide()
-      	$('.one_v_l').hide();
     });
 
     mobileClose.on('swiped-down click', () => {
@@ -142,7 +140,7 @@ $(function() {
               $('.pay_d').css('display', 'grid');
               $('#i_pc').html("Receive");
               $('.acpt_i').attr('href', wst);
-              $('#del_f').val($('.at_id_' + (index + 1)).text().split(' ').join(''));
+              $('#del_f').val($('.at_id_' + (index)).text().split(' ').join(''));
             }
         });
     });
@@ -181,3 +179,4 @@ $(function() {
     }());
 
 });
+
