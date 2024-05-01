@@ -89,6 +89,7 @@ $(function() {
 
     $('.acp').on('click', () => {
         $('.one_v_l').show();
+      	$('#i_pc').html("Payment Method");
         $('.pay_d').hide();
         $('.c_form').hide();
     });
@@ -140,7 +141,8 @@ $(function() {
               $('.pay_d').css('display', 'grid');
               $('#i_pc').html("Receive");
               $('.acpt_i').attr('href', wst);
-              console.log($('#del_f').val($('.at_id_' + (index)).text().split(' ').join('')));
+              $('#del_f').val($('.at_id_' + (index)).text().split(' ').join(''));
+              console.log(document.getElementById('del_f').value)
             }
         });
     });
@@ -179,3 +181,4 @@ $(function() {
     }());
 
 });
+
