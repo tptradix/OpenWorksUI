@@ -129,6 +129,7 @@ $(function() {
             twst.html('Registration');
             pwst.html('Completed');
             drow.css('display', 'inline-block');
+          	console.log($("#at_id_" + (index)).text().length)
           	if ($("#at_id_" + (index)).text().length < 2 ) {
             	$("#at_id_" + (index)).hide()
             }
