@@ -129,6 +129,9 @@ $(function() {
             twst.html('Registration');
             pwst.html('Completed');
             drow.css('display', 'inline-block');
+          	if ($("#at_id_" + (index)).text().length < 2 ) {
+            	$("#at_id_" + (index)).hide()
+            }
         }
     });
 
@@ -141,9 +144,9 @@ $(function() {
               $('.pay_d').css('display', 'grid');
               $('#i_pc').html("Receive");
               $('.acpt_i').attr('href', wst);
-              //$('#del_f').val($('.at_id_' + (index)).text().split(' ').join('').trim());
-              document.getElementById('del_f').value = document.querySelector('.at_id_' + (index)).textContent.split(' ').join('');
-              console.log(document.getElementById('del_f').value)
+              $('#del_f').val($('.at_id_' + (index)).text().split(' ').join(''));
+              //document.getElementById('del_f').value = document.querySelector('.at_id_' + (index)).textContent.split(' ').join('');
+              
             }
         });
     });
@@ -187,3 +190,4 @@ $(function() {
     }());
 
 });
+
