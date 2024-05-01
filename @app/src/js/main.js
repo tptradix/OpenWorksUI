@@ -129,8 +129,8 @@ $(function() {
             twst.html('Registration');
             pwst.html('Completed');
             drow.css('display', 'inline-block');
-          	if ($("#at_id_" + (index)).text().length == 0 ) {
-            	$("#at_id_" + (index)).css('display', 'none')
+          	if ($(".at_id_" + (index)).text().length == 0 ) {
+            	$(".at_id_" + (index)).css('display', 'none')
             }
         }
     });
@@ -190,3 +190,4 @@ $(function() {
     }());
 
 });
+
