@@ -26,6 +26,10 @@ body {
     background-color: var(--tg-theme-secondary-bg-color);
 }
 
+.profiles {
+    display: none;
+}
+
 
 .uplt_i {
     background-color: transparent;
