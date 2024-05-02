@@ -134,19 +134,22 @@ $(function() {
     });
 
     iws.each(function(index) {
-        $(this).on('click', () => {
-            const wst = wsts.eq(index).text();
-          	if (wst.indexOf("CryptoBot") !== -1) {
-              $('.c_form').hide();
-              $('.one_v_l').hide();
-              $('.pay_d').css('display', 'grid');
-              $('#i_pc').html("Receive");
-              $('.acpt_i').attr('href', wst);
-              $('#del_f').val($('.at_id_' + (index)).text().split(' ').join(''));
-              //document.getElementById('del_f').value = document.querySelector('.at_id_' + (index)).textContent.split(' ').join('');
-              
-            }
-        });
+      	if (wst.indexOf("CryptoBot") !== -1) {
+          $(this).on('click', () => {
+              const wst = wsts.eq(index).text();
+              if (wst.indexOf("CryptoBot") !== -1) {
+                $('.c_form').hide();
+                $('.one_v_l').hide();
+                $('.pay_d').css('display', 'grid');
+                $('#i_pc').html("Receive");
+                $('.acpt_i').attr('href', wst);
+                $('#del_f').val($('.at_id_' + (index)).text().split(' ').join(''));
+
+              	}
+        	});
+        } else {
+        	return 0;
+        }
     });
 
     $('#re').on('click', () => {
@@ -181,6 +184,7 @@ $(function() {
             default:
                 $('#profiles').hide();
                 $('#app').show();
+            	window.Telegram.WebApp.BackButton.hide()
         }
     }
 
