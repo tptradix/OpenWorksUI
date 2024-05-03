@@ -166,6 +166,7 @@ $(function() {
         switch(hash) {
             case '#profile':
                 $('#app').hide();
+                $('#ads').hide();
                 $('#profiles').show();
             	window.Telegram.WebApp.BackButton.show()
             	Telegram.WebApp.onEvent('backButtonClicked', () => {
@@ -174,11 +175,22 @@ $(function() {
                 break;
             case '#app':
                 $('#profiles').hide();
+                $('#ads').hide();
                 $('#app').show();
             	window.Telegram.WebApp.BackButton.hide()
                 break;
+            case '#ads':
+                $('#profiles').hide();
+                $('#app').hide();
+                $('#ads').show();
+                window.Telegram.WebApp.BackButton.show()
+            	Telegram.WebApp.onEvent('backButtonClicked', () => {
+                	window.location.hash = '#profiles'
+                })
+                break;
             default:
                 $('#profiles').hide();
+                $('#ads').hide();
                 $('#app').show();
             	window.Telegram.WebApp.BackButton.hide()
         }
