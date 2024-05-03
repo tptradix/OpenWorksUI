@@ -201,6 +201,43 @@ $(function() {
                     $(this).prop('checked', true);
                     $('#is' + this.name.charAt(4).toUpperCase()).val(this.id);
                 });
+
+                document.querySelectorAll('input[name="test"]').forEach(function(radio) {
+                        radio.addEventListener('click', function() {
+                            document.querySelectorAll('input[name="test"]').forEach(function(radio) {
+                                radio.checked = false;
+                            });
+                            this.checked = true;
+                            document.getElementById('isV').value = this.id;
+                        });
+                    });
+                    document.querySelectorAll('input[name="test2"]').forEach(function(radio) {
+                        radio.addEventListener('click', function() {
+                            document.querySelectorAll('input[name="test2"]').forEach(function(radio) {
+                                radio.checked = false;
+                            });
+                            this.checked = true;
+                            document.getElementById('isP').value = this.id;
+                        });
+                    });
+                    document.querySelectorAll('input[name="test3"]').forEach(function(radio) {
+                        radio.addEventListener('click', function() {
+                            document.querySelectorAll('input[name="test3"]').forEach(function(radio) {
+                                radio.checked = false;
+                            });
+                            this.checked = true;
+                            document.getElementById('isT').value = this.id;
+                        });
+                    });
+                    document.querySelectorAll('input[name="test4"]').forEach(function(radio) {
+                        radio.addEventListener('click', function() {
+                            document.querySelectorAll('input[name="test4"]').forEach(function(radio) {
+                                radio.checked = false;
+                            });
+                            this.checked = true;
+                            document.getElementById('isR').value = this.id;
+                        });
+                    });
             
                 $('#rew, #des').on('input', function() {
                     var bal = parseFloat($('#blnc').text());
