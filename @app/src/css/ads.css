@@ -17,6 +17,10 @@ body {
     }
   }
 
+#ads {
+    display: none;
+}
+
 
 * {
     box-sizing: border-box;
