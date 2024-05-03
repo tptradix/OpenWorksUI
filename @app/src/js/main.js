@@ -169,6 +169,7 @@ $(function() {
                 $('#ads').hide();
                 $('#profiles').show();
             	window.Telegram.WebApp.BackButton.show()
+                window.Telegram.WebApp.MainButton.hide()
             	Telegram.WebApp.onEvent('backButtonClicked', () => {
                 	window.location.hash = '#app'
                 })
