@@ -178,6 +178,7 @@ $(function() {
                 $('#ads').hide();
                 $('#app').show();
             	window.Telegram.WebApp.BackButton.hide()
+                window.Telegram.WebApp.MainButton.hide()
                 break;
             case '#ads':
                 $('#profiles').hide();
@@ -185,7 +186,7 @@ $(function() {
                 $('#ads').show();
                 window.Telegram.WebApp.BackButton.show()
             	Telegram.WebApp.onEvent('backButtonClicked', () => {
-                	window.location.hash = '#profiles'
+                	window.location.hash = '#profile'
                 })
 
                 let tg = window.Telegram.WebApp;
@@ -203,6 +204,7 @@ $(function() {
                 $('#ads').hide();
                 $('#app').show();
             	window.Telegram.WebApp.BackButton.hide()
+                window.Telegram.WebApp.MainButton.hide()
         }
     }
 
