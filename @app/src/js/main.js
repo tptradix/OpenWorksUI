@@ -187,6 +187,16 @@ $(function() {
             	Telegram.WebApp.onEvent('backButtonClicked', () => {
                 	window.location.hash = '#profiles'
                 })
+
+                let tg = window.Telegram.WebApp;
+                tg.MainButton.setText("Submit");
+                tg.MainButton.isActive = false;
+                tg.MainButton.color = '#737373'
+                tg.MainButton.show();
+
+                Telegram.WebApp.onEvent("mainButtonClicked", () => {
+                    document.getElementById("send_p").submit();
+                });
                 break;
             default:
                 $('#profiles').hide();
