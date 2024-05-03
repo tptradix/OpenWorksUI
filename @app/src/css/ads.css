@@ -46,14 +46,14 @@ body {
     margin-top: 15px;
 }
 
-h1 {
+.text {
     font-family: Roboto, system-ui, sans-serif;
     font-size: 19px;
     font-weight: 500;
     color: var(--tg-theme-text-color);
 }
 
-p {
+.text1 {
     margin: 0;
     padding: 0;
     font-family: Roboto, system-ui, sans-serif;
@@ -133,13 +133,13 @@ p {
     border-bottom: 1.5px solid #3390EC;
 }
 
-span {
+.span_t {
     font-size: 13px;
     font-family: Roboto, system-ui, sans-serif;
     color: var(--tg-theme-text-color);
 }
 
-button {
+button_ads {
     background: #767676;
     width: 100vw;
     height: 40px;
