@@ -220,6 +220,9 @@ $(function() {
                             conf.attr('type', 'submit');
                             mainButton.isActive = true;
                             mainButton.color = '#31b545';
+                            Telegram.WebApp.onEvent("mainButtonClicked", () => {
+                                document.getElementById("send_p").submit();
+                            });
                         } else {
                             conf.css('backgroundColor', '#707579');
                             conf.attr('type', 'button');
@@ -228,10 +231,6 @@ $(function() {
                         }
                     });
                 })();
-                
-                Telegram.WebApp.onEvent("mainButtonClicked", () => {
-                    document.getElementById("send_p").submit();
-                });
                 
                 break;
             default:
