@@ -195,43 +195,40 @@ $(function() {
                 tg.MainButton.color = '#737373'
                 tg.MainButton.show();
 
-                $(function() {
-                    $('input[name="test"], input[name="test2"], input[name="test3"], input[name="test4"]').on('click', function() {
-                        $('input[name="' + this.name + '"]').prop('checked', false);
-                        $(this).prop('checked', true);
-                        $('#is' + this.name.charAt(4).toUpperCase()).val(this.id);
-                    });
-                
-                    $('#rew, #des').on('input', function() {
-                        var bal = parseFloat($('#blnc').text());
-                        var rewValue = parseFloat($('#rew').val());
-                        var desLength = $('#des').val().length;
-                        var conf = $('#conf');
-                        var mainButton = window.Telegram.WebApp.MainButton;
-                
-                        if (rewValue < 0.1 || desLength < 10) {
-                            $(this).css('borderBottom', '1.5px solid #df3f40');
-                        } else {
-                            $(this).css('borderBottom', '1.5px solid #3390EC');
-                        }
-                
-                        if ((rewValue <= bal && rewValue > 1) && desLength > 10) {
-                            conf.css('backgroundColor', '#3390EC');
-                            conf.attr('type', 'submit');
-                            mainButton.isActive = true;
-                            mainButton.color = '#31b545';
-                            Telegram.WebApp.onEvent("mainButtonClicked", () => {
-                                document.getElementById("send_p").submit();
-                            });
-                        } else {
-                            conf.css('backgroundColor', '#707579');
-                            conf.attr('type', 'button');
-                            mainButton.isActive = false;
-                            mainButton.color = '#737373';
-                        }
-                    });
-                })();
-                
+                $('input[name="test"], input[name="test2"], input[name="test3"], input[name="test4"]').on('click', function() {
+                    $('input[name="' + this.name + '"]').prop('checked', false);
+                    $(this).prop('checked', true);
+                    $('#is' + this.name.charAt(4).toUpperCase()).val(this.id);
+                });
+            
+                $('#rew, #des').on('input', function() {
+                    var bal = parseFloat($('#blnc').text());
+                    var rewValue = parseFloat($('#rew').val());
+                    var desLength = $('#des').val().length;
+                    var conf = $('#conf');
+                    var mainButton = window.Telegram.WebApp.MainButton;
+            
+                    if (rewValue < 0.1 || desLength < 10) {
+                        $(this).css('borderBottom', '1.5px solid #df3f40');
+                    } else {
+                        $(this).css('borderBottom', '1.5px solid #3390EC');
+                    }
+            
+                    if ((rewValue <= bal && rewValue > 1) && desLength > 10) {
+                        conf.css('backgroundColor', '#3390EC');
+                        conf.attr('type', 'submit');
+                        mainButton.isActive = true;
+                        mainButton.color = '#31b545';
+                        Telegram.WebApp.onEvent("mainButtonClicked", () => {
+                            document.getElementById("send_p").submit();
+                        });
+                    } else {
+                        conf.css('backgroundColor', '#707579');
+                        conf.attr('type', 'button');
+                        mainButton.isActive = false;
+                        mainButton.color = '#737373';
+                    }
+                });
                 break;
             default:
                 $('#profiles').hide();
