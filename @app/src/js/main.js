@@ -82,20 +82,20 @@ $(function() {
     });
 
     cryptobotb.on('click', () => {
-        $('.one_v_l').hide();
+        $('.one_view_UN80Q').hide();
         $('#i_pc').html("CryptoBot");
         $('.c_form').show();
     });
 
     $('.acp').on('click', () => {
-        $('.one_v_l').show();
+        $('.one_view_UN80Q').show();
       	$('#i_pc').html("Payment Method");
-        $('.pay_d').hide();
+        $('.pay_DR24X').hide();
         $('.c_form').hide();
     });
 
     mobileClose.on('click', () => {
-        $('.pay_d').hide();
+        $('.pay_DR24X').hide();
         $('.c_form').hide();
     });
 
@@ -138,8 +138,8 @@ $(function() {
         const wst = wsts.eq(index).text();
         if (wst.indexOf("CryptoBot") !== -1) {
           $('.c_form').hide();
-          $('.one_v_l').hide();
-          $('.pay_d').css('display', 'grid');
+          $('.one_view_UN80Q').hide();
+          $('.pay_DR24X').css('display', 'grid');
           $('#i_pc').html("Receive");
           $('.acpt_i').attr('href', wst);
           $('#del_f').val($('.at_id_' + (index)).text().split(' ').join(''));
