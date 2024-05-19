@@ -84,19 +84,19 @@ $(function() {
     cryptobotb.on('click', () => {
         $('.one_view_UN80Q').hide();
         $('#i_pc').html("CryptoBot");
-        $('.c_form').show();
+        $('.form_BX795Y').show();
     });
 
     $('.acp').on('click', () => {
         $('.one_view_UN80Q').show();
       	$('#i_pc').html("Payment Method");
         $('.pay_DR24X').hide();
-        $('.c_form').hide();
+        $('.form_BX795Y').hide();
     });
 
     mobileClose.on('click', () => {
         $('.pay_DR24X').hide();
-        $('.c_form').hide();
+        $('.form_BX795Y').hide();
     });
 
     cp_amount.on('input', () => {
@@ -137,7 +137,7 @@ $(function() {
       $(this).on('click', () => {
         const wst = wsts.eq(index).text();
         if (wst.indexOf("CryptoBot") !== -1) {
-          $('.c_form').hide();
+          $('.form_BX795Y').hide();
           $('.one_view_UN80Q').hide();
           $('.pay_DR24X').css('display', 'grid');
           $('#i_pc').html("Receive");
