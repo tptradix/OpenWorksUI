@@ -99,14 +99,6 @@ $(function() {
         $('.form_BX795Y').hide();
     });
 
-    cp_amount.on('input', () => {
-        const ncpa = parseFloat(cp_amount.val());
-        if (ncpa > 1 && ncpa < 1000) {
-            cryptobot.css('background', '#3390EC').attr('type', 'submit');
-        } else {
-            cryptobot.css('background', '#707579').attr('type', 'button');
-        }
-    });
 
     openBtns.each(function(index) {
         const wst = wsts.eq(index).text();
@@ -153,40 +145,4 @@ $(function() {
     });
 
     document.body.onselectstart = () => { return false; }
-
-    $(function() {  
-    $(window).on('hashchange', function() {
-        var hash = window.location.hash;
-        $('#app').hide();
-        $('#profiles').hide();
-        route(hash);
-    });
-    
-    function route(hash) {
-        switch(hash) {
-            case '#profile':
-                $('#app').hide();
-                $('#profiles').show();
-            	window.Telegram.WebApp.BackButton.show()
-            	Telegram.WebApp.onEvent('backButtonClicked', () => {
-                	window.location.hash = '#app'
-                })
-                break;
-            case '#app':
-                $('#profiles').hide();
-                $('#app').show();
-            	window.Telegram.WebApp.BackButton.hide()
-                break;
-            default:
-                $('#profiles').hide();
-                $('#app').show();
-            	window.Telegram.WebApp.BackButton.hide()
-        }
-    }
-
-    route(window.location.hash);
-    }());
-
-});
-
 
