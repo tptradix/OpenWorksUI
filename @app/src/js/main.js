@@ -146,3 +146,4 @@ $(function() {
 
     document.body.onselectstart = () => { return false; }
 
+}();
