@@ -144,9 +144,6 @@ $(function() {
         window.location.reload();
     });
 
-    document.querySelector('.cancel').addEventListener('click', () => {
-        closeModal();
-    })
 
     document.body.onselectstart = () => { return false; }
 
