@@ -144,14 +144,14 @@ button {
   border-radius: 10px;
 }
 
-p {
+.p_m {
   font-family: Roboto, system-ui, sans-serif;
   margin: 5px;
   text-align: center;
   color: var(--tg-theme-subtitle-text-color);
 }
 
-h1 {
+.h1_m {
   font-family: Lato;
   font-size: 23px;
   margin-bottom: 10px;
